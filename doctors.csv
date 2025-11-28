@@ -1,0 +1,1361 @@
+ID;Date;Specialty;RegionID;CountryID
+M5_400105;05/03/2025;Medical oncologist;55;7
+M5_400165;05/03/2025;Medical oncologist;55;7
+M5_400174;05/03/2025;Medical oncologist;55;7
+M5_400189;05/03/2025;Medical oncologist;55;7
+M5_400231;05/03/2025;Medical oncologist;55;7
+M5_400309;05/03/2025;Medical oncologist;55;7
+M5_400336;05/03/2025;Medical oncologist;55;7
+M5_400372;05/03/2025;Medical oncologist;55;7
+M5_400387;05/03/2025;Medical oncologist;55;7
+M5_400423;05/03/2025;Medical oncologist;55;7
+M5_400462;05/03/2025;Medical oncologist;55;7
+M5_400603;05/03/2025;Medical oncologist;55;7
+M5_400606;05/03/2025;Medical oncologist;55;7
+M6_400576;06/04/2025;Medical oncologist;55;7
+M6_400798;06/04/2025;Medical oncologist;55;7
+M6_400924;06/04/2025;Medical oncologist;55;7
+M6_400930;06/04/2025;Medical oncologist;55;7
+M6_400939;06/04/2025;Medical oncologist;55;7
+M6_400951;06/04/2025;Medical oncologist;55;7
+M6_400966;06/04/2025;Medical oncologist;55;7
+M6_401002;06/04/2025;Medical oncologist;55;7
+M7_400135;07/05/2025;Medical oncologist;55;7
+M7_400165;07/05/2025;Medical oncologist;55;7
+M7_400174;07/05/2025;Medical oncologist;55;7
+M7_400189;07/05/2025;Medical oncologist;55;7
+M7_400231;07/05/2025;Medical oncologist;55;7
+M7_400255;07/05/2025;Medical oncologist;55;7
+M7_400336;07/05/2025;Medical oncologist;55;7
+M7_400387;07/05/2025;Medical oncologist;55;7
+M7_400423;07/05/2025;Medical oncologist;55;7
+M7_400462;07/05/2025;Medical oncologist;55;7
+M7_400606;07/05/2025;Medical oncologist;55;7
+M8_400105;08/06/2025;Medical oncologist;55;7
+M8_400309;08/06/2025;Medical oncologist;55;7
+M8_400603;08/06/2025;Medical oncologist;55;7
+M8_402007;08/06/2025;Medical oncologist;55;7
+M8_402016;08/06/2025;Medical oncologist;55;7
+M8_402019;08/06/2025;Medical oncologist;55;7
+M8_402046;08/06/2025;Medical oncologist;55;7
+M8_402061;08/06/2025;Medical oncologist;55;7
+M9_401002;09/07/2025;Medical oncologist;55;7
+M9_400939;09/07/2025;Medical oncologist;55;7
+M9_400372;09/07/2025;Medical oncologist;55;7
+M9_400951;09/07/2025;Medical oncologist;55;7
+M9_400798;09/07/2025;Medical oncologist;55;7
+M9_400924;09/07/2025;Medical oncologist;55;7
+M9_402250;09/07/2025;Medical oncologist;55;7
+M9_400930;09/07/2025;Medical oncologist;55;7
+M9_402256;09/07/2025;Medical oncologist;55;7
+M10_400255;10/08/2025;Medical oncologist;55;7
+M10_400387;10/08/2025;Medical oncologist;55;7
+M10_400423;10/08/2025;Medical oncologist;55;7
+M10_400231;10/08/2025;Medical oncologist;55;7
+M10_400336;10/08/2025;Medical oncologist;55;7
+M10_400135;10/08/2025;Medical oncologist;55;7
+M10_400165;10/08/2025;Medical oncologist;55;7
+M10_400174;10/08/2025;Medical oncologist;55;7
+M10_400606;10/08/2025;Medical oncologist;55;7
+M10_400189;10/08/2025;Medical oncologist;55;7
+M11_402490;11/09/2025;Medical oncologist;55;7
+M11_402016;11/09/2025;Medical oncologist;55;7
+M11_400603;11/09/2025;Medical oncologist;55;7
+M11_400549;11/09/2025;Medical oncologist;55;7
+M11_402046;11/09/2025;Medical oncologist;55;7
+M11_402007;11/09/2025;Medical oncologist;55;7
+M11_402310;11/09/2025;Medical oncologist;55;7
+M11_400309;11/09/2025;Medical oncologist;55;7
+M5_400060;05/03/2025;Medical oncologist;53;7
+M5_400093;05/03/2025;Medical oncologist;54;7
+M5_400117;05/03/2025;Medical oncologist;56;7
+M5_400168;05/03/2025;Medical oncologist;53;7
+M5_400186;05/03/2025;Medical oncologist;57;7
+M5_400237;05/03/2025;Medical oncologist;54;7
+M5_400273;05/03/2025;Medical oncologist;57;7
+M5_400276;05/03/2025;Medical oncologist;54;7
+M5_400279;05/03/2025;Medical oncologist;53;7
+M5_400282;05/03/2025;Medical oncologist;53;7
+M5_400348;05/03/2025;Medical oncologist;56;7
+M5_400366;05/03/2025;Medical oncologist;53;7
+M5_400375;05/03/2025;Medical oncologist;53;7
+M5_400384;05/03/2025;Medical oncologist;54;7
+M5_400396;05/03/2025;Medical oncologist;54;7
+M5_400402;05/03/2025;Medical oncologist;57;7
+M5_400444;05/03/2025;Medical oncologist;56;7
+M5_400447;05/03/2025;Medical oncologist;53;7
+M5_400477;05/03/2025;Medical oncologist;53;7
+M5_400516;05/03/2025;Medical oncologist;53;7
+M5_400528;05/03/2025;Medical oncologist;56;7
+M5_400546;05/03/2025;Medical oncologist;56;7
+M5_400594;05/03/2025;Medical oncologist;57;7
+M5_400693;05/03/2025;Medical oncologist;53;7
+M5_400780;05/03/2025;Medical oncologist;56;7
+M6_400108;06/04/2025;Medical oncologist;56;7
+M6_400156;06/04/2025;Medical oncologist;57;7
+M6_400438;06/04/2025;Medical oncologist;57;7
+M6_400579;06/04/2025;Medical oncologist;57;7
+M6_400636;06/04/2025;Medical oncologist;57;7
+M6_400654;06/04/2025;Medical oncologist;54;7
+M6_400765;06/04/2025;Medical oncologist;57;7
+M6_400900;06/04/2025;Medical oncologist;57;7
+M6_400906;06/04/2025;Medical oncologist;57;7
+M6_400912;06/04/2025;Medical oncologist;54;7
+M6_400918;06/04/2025;Medical oncologist;56;7
+M6_400921;06/04/2025;Medical oncologist;57;7
+M6_400927;06/04/2025;Medical oncologist;54;7
+M6_400933;06/04/2025;Medical oncologist;56;7
+M6_400936;06/04/2025;Medical oncologist;56;7
+M6_400972;06/04/2025;Medical oncologist;56;7
+M6_401005;06/04/2025;Medical oncologist;53;7
+M6_401086;06/04/2025;Medical oncologist;54;7
+M6_401092;06/04/2025;Medical oncologist;54;7
+M6_401101;06/04/2025;Medical oncologist;53;7
+M6_401116;06/04/2025;Medical oncologist;54;7
+M7_400060;07/05/2025;Medical oncologist;53;7
+M7_400117;07/05/2025;Medical oncologist;56;7
+M7_400132;07/05/2025;Medical oncologist;57;7
+M7_400168;07/05/2025;Medical oncologist;53;7
+M7_400186;07/05/2025;Medical oncologist;57;7
+M7_400276;07/05/2025;Medical oncologist;54;7
+M7_400375;07/05/2025;Medical oncologist;53;7
+M7_400396;07/05/2025;Medical oncologist;54;7
+M7_400444;07/05/2025;Medical oncologist;56;7
+M7_400447;07/05/2025;Medical oncologist;53;7
+M7_400477;07/05/2025;Medical oncologist;53;7
+M7_400528;07/05/2025;Medical oncologist;56;7
+M7_400546;07/05/2025;Medical oncologist;56;7
+M7_400660;07/05/2025;Medical oncologist;57;7
+M7_400693;07/05/2025;Medical oncologist;53;7
+M7_400801;07/05/2025;Medical oncologist;57;7
+M8_400237;08/06/2025;Medical oncologist;54;7
+M8_400273;08/06/2025;Medical oncologist;57;7
+M8_400279;08/06/2025;Medical oncologist;53;7
+M8_400366;08/06/2025;Medical oncologist;53;7
+M8_400402;08/06/2025;Medical oncologist;57;7
+M8_400780;08/06/2025;Medical oncologist;56;7
+M8_402001;08/06/2025;Medical oncologist;56;7
+M8_402004;08/06/2025;Medical oncologist;57;7
+M8_402010;08/06/2025;Medical oncologist;57;7
+M8_402013;08/06/2025;Medical oncologist;56;7
+M8_402022;08/06/2025;Medical oncologist;57;7
+M8_402025;08/06/2025;Medical oncologist;56;7
+M8_402043;08/06/2025;Medical oncologist;56;7
+M8_402049;08/06/2025;Medical oncologist;57;7
+M8_402052;08/06/2025;Medical oncologist;57;7
+M8_402070;08/06/2025;Medical oncologist;57;7
+M8_402124;08/06/2025;Medical oncologist;57;7
+M8_402163;08/06/2025;Medical oncologist;54;7
+M8_402166;08/06/2025;Medical oncologist;54;7
+M9_402292;09/07/2025;Medical oncologist;56;7
+M9_400900;09/07/2025;Medical oncologist;57;7
+M9_400765;09/07/2025;Medical oncologist;57;7
+M9_402235;09/07/2025;Medical oncologist;57;7
+M9_401005;09/07/2025;Medical oncologist;53;7
+M9_400972;09/07/2025;Medical oncologist;56;7
+M9_400927;09/07/2025;Medical oncologist;54;7
+M9_402028;09/07/2025;Medical oncologist;56;7
+M9_402295;09/07/2025;Medical oncologist;57;7
+M9_400912;09/07/2025;Medical oncologist;54;7
+M9_400921;09/07/2025;Medical oncologist;57;7
+M9_401116;09/07/2025;Medical oncologist;54;7
+M9_401092;09/07/2025;Medical oncologist;54;7
+M9_400936;09/07/2025;Medical oncologist;56;7
+M9_401086;09/07/2025;Medical oncologist;54;7
+M9_401101;09/07/2025;Medical oncologist;53;7
+M9_400108;09/07/2025;Medical oncologist;56;7
+M9_402262;09/07/2025;Medical oncologist;57;7
+M9_402268;09/07/2025;Medical oncologist;54;7
+M10_400168;10/08/2025;Medical oncologist;53;7
+M10_400444;10/08/2025;Medical oncologist;56;7
+M10_400693;10/08/2025;Medical oncologist;53;7
+M10_400546;10/08/2025;Medical oncologist;56;7
+M10_400801;10/08/2025;Medical oncologist;57;7
+M10_400396;10/08/2025;Medical oncologist;54;7
+M10_400477;10/08/2025;Medical oncologist;53;7
+M10_400276;10/08/2025;Medical oncologist;54;7
+M10_400060;10/08/2025;Medical oncologist;53;7
+M10_400447;10/08/2025;Medical oncologist;53;7
+M10_400186;10/08/2025;Medical oncologist;57;7
+M10_400906;10/08/2025;Medical oncologist;57;7
+M10_400117;10/08/2025;Medical oncologist;56;7
+M10_400528;10/08/2025;Medical oncologist;56;7
+M10_400384;10/08/2025;Medical oncologist;54;7
+M10_402298;10/08/2025;Medical oncologist;54;7
+M11_402406;11/09/2025;Medical oncologist;56;7
+M11_400579;11/09/2025;Medical oncologist;57;7
+M11_402004;11/09/2025;Medical oncologist;57;7
+M11_402328;11/09/2025;Medical oncologist;56;7
+M11_400282;11/09/2025;Medical oncologist;53;7
+M11_402316;11/09/2025;Medical oncologist;57;7
+M11_402022;11/09/2025;Medical oncologist;57;7
+M11_402040;11/09/2025;Medical oncologist;57;7
+M11_402049;11/09/2025;Medical oncologist;57;7
+M11_400366;11/09/2025;Medical oncologist;53;7
+M11_402163;11/09/2025;Medical oncologist;54;7
+M11_402070;11/09/2025;Medical oncologist;57;7
+M11_402334;11/09/2025;Medical oncologist;56;7
+M11_402052;11/09/2025;Medical oncologist;57;7
+M11_400375;11/09/2025;Medical oncologist;53;7
+M11_400780;11/09/2025;Medical oncologist;56;7
+M11_402409;11/09/2025;Medical oncologist;56;7
+M11_402043;11/09/2025;Medical oncologist;56;7
+M11_402124;11/09/2025;Medical oncologist;57;7
+M11_402403;11/09/2025;Medical oncologist;56;7
+M11_400402;11/09/2025;Medical oncologist;57;7
+M11_402400;11/09/2025;Medical oncologist;57;7
+1_559649;02/12/2024;Medical oncologist;11;3
+1_559652;02/12/2024;Medical oncologist;12;3
+1_559655;02/12/2024;Medical oncologist;13;3
+1_559658;02/12/2024;Medical oncologist;14;3
+1_559661;02/12/2024;Medical oncologist;12;3
+1_559670;02/12/2024;Medical oncologist;14;3
+1_559676;02/12/2024;Medical oncologist;14;3
+1_559700;03/01/2025;Medical oncologist;15;3
+1_559703;03/01/2025;Medical oncologist;13;3
+1_559706;03/01/2025;Medical oncologist;16;3
+1_559709;03/01/2025;Medical oncologist;13;3
+1_559715;03/01/2025;Medical oncologist;11;3
+1_559718;03/01/2025;Medical oncologist;17;3
+1_559724;03/01/2025;Medical oncologist;14;3
+1_559727;03/01/2025;Medical oncologist;17;3
+1_559736;03/01/2025;Medical oncologist;14;3
+1_559739;03/01/2025;Medical oncologist;13;3
+1_559742;03/01/2025;Medical oncologist;18;3
+1_559745;03/01/2025;Medical oncologist;12;3
+1_559754;03/01/2025;Medical oncologist;18;3
+1_559763;03/01/2025;Medical oncologist;18;3
+1_559766;03/01/2025;Medical oncologist;12;3
+1_559772;03/01/2025;Medical oncologist;17;3
+1_559814;03/01/2025;Medical oncologist;15;3
+1_559859;03/01/2025;Medical oncologist;11;3
+1_559946;02/12/2024;Medical oncologist;17;3
+1_559952;02/12/2024;Medical oncologist;11;3
+1_559955;02/12/2024;Medical oncologist;15;3
+1_559961;02/12/2024;Medical oncologist;18;3
+1_559967;02/12/2024;Medical oncologist;15;3
+1_559970;02/12/2024;Medical oncologist;15;3
+1_559976;02/12/2024;Medical oncologist;17;3
+1_559988;02/12/2024;Medical oncologist;14;3
+1_559994;02/12/2024;Medical oncologist;13;3
+1_559997;02/12/2024;Medical oncologist;13;3
+M4_559973;04/02/2025;Medical oncologist;17;3
+M4_559976;04/02/2025;Medical oncologist;17;3
+M4_559985;04/02/2025;Medical oncologist;15;3
+M4_559988;04/02/2025;Medical oncologist;15;3
+M4_559991;04/02/2025;Medical oncologist;13;3
+M4_559994;04/02/2025;Medical oncologist;15;3
+M4_559997;04/02/2025;Medical oncologist;13;3
+M5_559682;05/03/2025;Medical oncologist;12;3
+M5_559685;05/03/2025;Medical oncologist;13;3
+M5_559688;05/03/2025;Medical oncologist;19;3
+M5_559691;05/03/2025;Medical oncologist;14;3
+M5_559703;05/03/2025;Medical oncologist;17;3
+M5_559706;05/03/2025;Medical oncologist;15;3
+M5_559709;05/03/2025;Medical oncologist;17;3
+M5_559718;05/03/2025;Medical oncologist;15;3
+M5_559724;05/03/2025;Medical oncologist;17;3
+M5_559730;05/03/2025;Medical oncologist;11;3
+M5_559733;05/03/2025;Medical oncologist;18;3
+M5_559739;05/03/2025;Medical oncologist;14;3
+M5_559742;05/03/2025;Medical oncologist;13;3
+M5_559769;05/03/2025;Medical oncologist;18;3
+M5_559784;05/03/2025;Medical oncologist;15;3
+M5_559808;05/03/2025;Medical oncologist;13;3
+M5_559814;05/03/2025;Medical oncologist;18;3
+M5_559940;05/03/2025;Medical oncologist;18;3
+M5_559946;05/03/2025;Medical oncologist;14;3
+M5_559949;05/03/2025;Medical oncologist;11;3
+M5_559958;05/03/2025;Medical oncologist;17;3
+M5_559961;05/03/2025;Medical oncologist;14;3
+M6_559256;06/04/2025;Medical oncologist;15;3
+M6_559262;06/04/2025;Medical oncologist;17;3
+M6_559265;06/04/2025;Medical oncologist;14;3
+M6_559286;06/04/2025;Medical oncologist;15;3
+M6_559292;06/04/2025;Medical oncologist;15;3
+M6_559310;06/04/2025;Medical oncologist;17;3
+M6_559316;06/04/2025;Medical oncologist;13;3
+M6_559322;06/04/2025;Medical oncologist;14;3
+M6_559328;06/04/2025;Medical oncologist;15;3
+M6_559331;06/04/2025;Medical oncologist;18;3
+M6_559340;06/04/2025;Medical oncologist;18;3
+M6_559349;06/04/2025;Medical oncologist;13;3
+M6_559367;06/04/2025;Medical oncologist;11;3
+M6_559370;06/04/2025;Medical oncologist;15;3
+M6_559376;06/04/2025;Medical oncologist;15;3
+M6_559379;06/04/2025;Medical oncologist;14;3
+M6_559388;06/04/2025;Medical oncologist;13;3
+M6_559829;06/04/2025;Medical oncologist;12;3
+M6_559832;06/04/2025;Medical oncologist;18;3
+M6_559838;06/04/2025;Medical oncologist;11;3
+M6_559841;06/04/2025;Medical oncologist;12;3
+M6_559847;06/04/2025;Medical oncologist;13;3
+M6_559853;06/04/2025;Medical oncologist;12;3
+M6_559856;06/04/2025;Medical oncologist;17;3
+M6_559868;06/04/2025;Medical oncologist;14;3
+M6_559871;06/04/2025;Medical oncologist;14;3
+M6_559880;06/04/2025;Medical oncologist;17;3
+M6_559889;06/04/2025;Medical oncologist;12;3
+M6_559892;06/04/2025;Medical oncologist;14;3
+M6_559898;06/04/2025;Medical oncologist;12;3
+M6_559904;06/04/2025;Medical oncologist;18;3
+M6_559907;06/04/2025;Medical oncologist;13;3
+M6_559928;06/04/2025;Medical oncologist;13;3
+M6_559934;06/04/2025;Medical oncologist;17;3
+M7_502589;07/05/2025;Medical oncologist;14;3
+M7_521075;07/05/2025;Medical oncologist;17;3
+M7_525026;07/05/2025;Medical oncologist;18;3
+M7_532598;07/05/2025;Medical oncologist;12;3
+M7_538439;07/05/2025;Medical oncologist;13;3
+M7_547256;07/05/2025;Medical oncologist;14;3
+M7_559682;07/05/2025;Medical oncologist;12;3
+M7_559685;07/05/2025;Medical oncologist;13;3
+M7_559703;07/05/2025;Medical oncologist;17;3
+M7_559724;07/05/2025;Medical oncologist;17;3
+M7_559730;07/05/2025;Medical oncologist;11;3
+M7_559733;07/05/2025;Medical oncologist;18;3
+M7_559739;07/05/2025;Medical oncologist;14;3
+M7_559751;07/05/2025;Medical oncologist;18;3
+M7_559940;07/05/2025;Medical oncologist;18;3
+M7_559946;07/05/2025;Medical oncologist;14;3
+M7_559958;07/05/2025;Medical oncologist;12;3
+M7_559961;07/05/2025;Medical oncologist;18;3
+M7_559976;07/05/2025;Medical oncologist;17;3
+M7_559991;07/05/2025;Medical oncologist;13;3
+M7_559994;07/05/2025;Medical oncologist;15;3
+M8_506249;08/06/2025;Medical oncologist;18;3
+M8_511793;08/06/2025;Medical oncologist;12;3
+M8_514538;08/06/2025;Medical oncologist;14;3
+M8_523688;08/06/2025;Medical oncologist;13;3
+M8_529796;08/06/2025;Medical oncologist;17;3
+M8_546785;08/06/2025;Medical oncologist;15;3
+M8_551678;08/06/2025;Medical oncologist;17;3
+M8_559328;08/06/2025;Medical oncologist;13;3
+M8_559742;08/06/2025;Medical oncologist;13;3
+M8_559781;08/06/2025;Medical oncologist;13;3
+M8_559808;08/06/2025;Medical oncologist;13;3
+M8_559814;08/06/2025;Medical oncologist;18;3
+M8_559832;08/06/2025;Medical oncologist;18;3
+M8_559841;08/06/2025;Medical oncologist;12;3
+M8_559847;08/06/2025;Medical oncologist;13;3
+M8_559856;08/06/2025;Medical oncologist;17;3
+M8_559868;08/06/2025;Medical oncologist;14;3
+M8_559880;08/06/2025;Medical oncologist;17;3
+M8_559889;08/06/2025;Medical oncologist;12;3
+M8_559892;08/06/2025;Medical oncologist;14;3
+M8_559898;08/06/2025;Medical oncologist;12;3
+M8_559904;08/06/2025;Medical oncologist;18;3
+M8_559928;08/06/2025;Medical oncologist;13;3
+M8_559934;08/06/2025;Medical oncologist;17;3
+M9_559292;09/07/2025;Medical oncologist;15;3
+M9_559949;09/07/2025;Medical oncologist;11;3
+M9_559370;09/07/2025;Medical oncologist;15;3
+M9_537779;09/07/2025;Medical oncologist;15;3
+M9_522080;09/07/2025;Medical oncologist;13;3
+M9_559349;09/07/2025;Medical oncologist;13;3
+M9_559706;09/07/2025;Medical oncologist;15;3
+M9_535316;09/07/2025;Medical oncologist;12;3
+M9_559367;09/07/2025;Medical oncologist;11;3
+M9_559853;09/07/2025;Medical oncologist;12;3
+M9_559382;09/07/2025;Medical oncologist;17;3
+M9_531539;09/07/2025;Medical oncologist;14;3
+M9_539573;09/07/2025;Medical oncologist;18;3
+M9_508919;09/07/2025;Medical oncologist;12;3
+M9_559310;09/07/2025;Medical oncologist;17;3
+M9_559322;09/07/2025;Medical oncologist;14;3
+M9_524603;09/07/2025;Medical oncologist;13;3
+M9_559376;09/07/2025;Medical oncologist;15;3
+M9_559268;09/07/2025;Medical oncologist;15;3
+M9_559265;09/07/2025;Medical oncologist;14;3
+M9_528464;09/07/2025;Medical oncologist;18;3
+M9_552728;09/07/2025;Medical oncologist;13;3
+M10_559997;10/08/2025;Medical oncologist;13;3
+M10_559940;10/08/2025;Medical oncologist;18;3
+M10_559961;10/08/2025;Medical oncologist;14;3
+M10_559994;10/08/2025;Medical oncologist;15;3
+M10_559976;10/08/2025;Medical oncologist;17;3
+M10_532598;10/08/2025;Medical oncologist;12;3
+M10_559685;10/08/2025;Medical oncologist;13;3
+M10_538439;10/08/2025;Medical oncologist;13;3
+M10_559958;10/08/2025;Medical oncologist;12;3
+M10_559682;10/08/2025;Medical oncologist;12;3
+M10_559730;10/08/2025;Medical oncologist;18;3
+M10_559946;10/08/2025;Medical oncologist;14;3
+M10_559739;10/08/2025;Medical oncologist;14;3
+M10_503699;10/08/2025;Medical oncologist;12;3
+M10_501635;10/08/2025;Medical oncologist;12;3
+M10_521075;10/08/2025;Medical oncologist;17;3
+M10_559973;10/08/2025;Medical oncologist;17;3
+M11_546785;11/09/2025;Medical oncologist;15;3
+M11_523688;11/09/2025;Medical oncologist;13;3
+M11_559898;11/09/2025;Medical oncologist;12;3
+M11_559847;11/09/2025;Medical oncologist;13;3
+M11_559928;11/09/2025;Medical oncologist;13;3
+M11_559841;11/09/2025;Medical oncologist;13;3
+M11_514538;11/09/2025;Medical oncologist;14;3
+M11_559328;11/09/2025;Medical oncologist;12;3
+M11_559934;11/09/2025;Medical oncologist;17;3
+M11_559808;11/09/2025;Medical oncologist;13;3
+M11_559856;11/09/2025;Medical oncologist;17;3
+M11_559904;11/09/2025;Medical oncologist;18;3
+M11_506249;11/09/2025;Medical oncologist;18;3
+M11_529796;11/09/2025;Medical oncologist;17;3
+M11_549569;11/09/2025;Medical oncologist;14;3
+M11_559889;11/09/2025;Medical oncologist;12;3
+M11_559892;11/09/2025;Medical oncologist;14;3
+M11_511793;11/09/2025;Medical oncologist;12;3
+1_100078;02/12/2024;Medical oncologist;1;1
+1_101668;01/11/2024;Medical oncologist;1;1
+1_102736;02/12/2024;Medical oncologist;1;1
+1_104485;03/01/2025;Medical oncologist;1;1
+1_105538;01/11/2024;Medical oncologist;1;1
+1_106372;01/11/2024;Medical oncologist;1;1
+1_100090;03/01/2025;Medical oncologist;2;1
+1_100156;02/12/2024;Medical oncologist;2;1
+1_100390;03/01/2025;Medical oncologist;2;1
+1_100576;02/12/2024;Medical oncologist;2;1
+1_102499;01/11/2024;Medical oncologist;2;1
+1_103078;01/11/2024;Medical oncologist;2;1
+1_103264;01/11/2024;Medical oncologist;2;1
+1_104158;02/12/2024;Medical oncologist;2;1
+1_104542;02/12/2024;Medical oncologist;2;1
+1_105322;02/12/2024;Medical oncologist;2;1
+1_100399;03/01/2025;Medical oncologist;3;1
+1_102970;01/11/2024;Medical oncologist;3;1
+1_103855;03/01/2025;Medical oncologist;3;1
+1_104527;03/01/2025;Medical oncologist;3;1
+1_101563;03/01/2025;Medical oncologist;4;1
+1_101713;02/12/2024;Medical oncologist;4;1
+1_104014;03/01/2025;Medical oncologist;4;1
+1_104686;01/11/2024;Medical oncologist;5;1
+M4_100045;04/02/2025;Medical oncologist;1;1
+M4_100060;04/02/2025;Medical oncologist;1;1
+M4_100072;04/02/2025;Medical oncologist;2;1
+M4_100078;04/02/2025;Medical oncologist;4;1
+M4_100087;04/02/2025;Medical oncologist;1;1
+M4_100093;04/02/2025;Medical oncologist;1;1
+M4_100102;04/02/2025;Medical oncologist;3;1
+M5_100048;05/03/2025;Medical oncologist;3;1
+M5_100069;05/03/2025;Medical oncologist;5;1
+M5_100081;05/03/2025;Medical oncologist;1;1
+M5_100099;05/03/2025;Medical oncologist;3;1
+M5_100966;05/03/2025;Medical oncologist;1;1
+M5_101323;05/03/2025;Medical oncologist;3;1
+M5_101524;05/03/2025;Medical oncologist;3;1
+M5_108025;05/03/2025;Medical oncologist;2;1
+M5_112612;05/03/2025;Medical oncologist;1;1
+M5_113809;05/03/2025;Medical oncologist;1;1
+M5_117487;05/03/2025;Medical oncologist;2;1
+M5_122512;05/03/2025;Medical oncologist;3;1
+M5_126943;05/03/2025;Medical oncologist;4;1
+M5_127828;05/03/2025;Medical oncologist;2;1
+M5_128281;05/03/2025;Medical oncologist;5;1
+M5_133510;05/03/2025;Medical oncologist;2;1
+M5_134920;05/03/2025;Medical oncologist;2;1
+M5_139480;05/03/2025;Medical oncologist;3;1
+M5_159964;05/03/2025;Medical oncologist;3;1
+M6_102112;06/04/2025;Medical oncologist;5;1
+M6_103564;06/04/2025;Medical oncologist;3;1
+M6_121120;06/04/2025;Medical oncologist;1;1
+M6_124720;06/04/2025;Medical oncologist;2;1
+M6_127897;06/04/2025;Medical oncologist;3;1
+M6_129208;06/04/2025;Medical oncologist;2;1
+M6_134767;06/04/2025;Medical oncologist;1;1
+M6_219644;06/04/2025;Medical oncologist;5;1
+M6_219659;06/04/2025;Medical oncologist;2;1
+M6_219662;06/04/2025;Medical oncologist;5;1
+M6_219665;06/04/2025;Medical oncologist;3;1
+M6_219863;06/04/2025;Medical oncologist;5;1
+M6_219869;06/04/2025;Medical oncologist;2;1
+M6_219875;06/04/2025;Medical oncologist;3;1
+M6_219878;06/04/2025;Medical oncologist;1;1
+M6_219881;06/04/2025;Medical oncologist;3;1
+M6_219890;06/04/2025;Medical oncologist;3;1
+M6_219905;06/04/2025;Medical oncologist;1;1
+M6_219911;06/04/2025;Medical oncologist;2;1
+M6_219965;06/04/2025;Medical oncologist;3;1
+M6_219971;06/04/2025;Medical oncologist;1;1
+M6_219986;06/04/2025;Medical oncologist;1;1
+M6_219995;06/04/2025;Medical oncologist;3;1
+M7_100045;07/05/2025;Medical oncologist;1;1
+M7_100048;07/05/2025;Medical oncologist;3;1
+M7_100057;07/05/2025;Medical oncologist;2;1
+M7_100060;07/05/2025;Medical oncologist;1;1
+M7_100066;07/05/2025;Medical oncologist;2;1
+M7_100069;07/05/2025;Medical oncologist;5;1
+M7_100072;07/05/2025;Medical oncologist;2;1
+M7_100078;07/05/2025;Medical oncologist;4;1
+M7_100081;07/05/2025;Medical oncologist;1;1
+M7_100087;07/05/2025;Medical oncologist;1;1
+M7_100099;07/05/2025;Medical oncologist;3;1
+M7_100102;07/05/2025;Medical oncologist;3;1
+M7_101524;07/05/2025;Medical oncologist;3;1
+M7_102640;07/05/2025;Medical oncologist;2;1
+M7_103660;07/05/2025;Medical oncologist;1;1
+M7_105397;07/05/2025;Medical oncologist;1;1
+M7_108025;07/05/2025;Medical oncologist;2;1
+M7_110197;07/05/2025;Medical oncologist;2;1
+M7_113809;07/05/2025;Medical oncologist;1;1
+M7_125680;07/05/2025;Medical oncologist;2;1
+M7_127039;07/05/2025;Medical oncologist;1;1
+M7_138799;07/05/2025;Medical oncologist;1;1
+M8_100096;08/06/2025;Medical oncologist;3;1
+M8_100111;08/06/2025;Medical oncologist;2;1
+M8_100666;08/06/2025;Medical oncologist;1;1
+M8_101974;08/06/2025;Medical oncologist;1;1
+M8_102820;08/06/2025;Medical oncologist;2;1
+M8_103564;08/06/2025;Medical oncologist;3;1
+M8_104671;08/06/2025;Medical oncologist;5;1
+M8_110707;08/06/2025;Medical oncologist;4;1
+M8_112612;08/06/2025;Medical oncologist;1;1
+M8_119404;08/06/2025;Medical oncologist;3;1
+M8_122512;08/06/2025;Medical oncologist;3;1
+M8_126943;08/06/2025;Medical oncologist;4;1
+M8_127828;08/06/2025;Medical oncologist;2;1
+M8_128281;08/06/2025;Medical oncologist;5;1
+M8_133510;08/06/2025;Medical oncologist;2;1
+M8_134767;08/06/2025;Medical oncologist;1;1
+M8_134920;08/06/2025;Medical oncologist;2;1
+M8_136099;08/06/2025;Medical oncologist;2;1
+M8_159964;08/06/2025;Medical oncologist;3;1
+M8_18071671;08/06/2025;Medical oncologist;5;1
+M8_18074275;08/06/2025;Medical oncologist;3;1
+M8_18091231;08/06/2025;Medical oncologist;3;1
+M8_18093436;08/06/2025;Medical oncologist;2;1
+M10_138985;10/08/2025;Medical oncologist;1;1
+M9_120343;09/07/2025;Medical oncologist;1;1
+M9_124462;09/07/2025;Medical oncologist;2;1
+M9_134050;09/07/2025;Medical oncologist;5;1
+M9_108565;09/07/2025;Medical oncologist;1;1
+M9_104518;09/07/2025;Medical oncologist;1;1
+M9_100759;09/07/2025;Medical oncologist;3;1
+M9_129196;09/07/2025;Medical oncologist;1;1
+M9_117718;09/07/2025;Medical oncologist;4;1
+M9_133885;09/07/2025;Medical oncologist;3;1
+M9_135571;09/07/2025;Medical oncologist;3;1
+M9_130009;09/07/2025;Medical oncologist;5;1
+M9_114052;09/07/2025;Medical oncologist;5;1
+M9_127648;09/07/2025;Medical oncologist;5;1
+M9_117340;09/07/2025;Medical oncologist;4;1
+M9_116878;09/07/2025;Medical oncologist;4;1
+M9_130057;09/07/2025;Medical oncologist;3;1
+M9_134965;09/07/2025;Medical oncologist;5;1
+M9_121192;09/07/2025;Medical oncologist;4;1
+M9_128215;09/07/2025;Medical oncologist;3;1
+M9_137590;09/07/2025;Medical oncologist;3;1
+M9_100093;09/07/2025;Medical oncologist;1;1
+M9_102112;09/07/2025;Medical oncologist;3;1
+M9_117487;09/07/2025;Medical oncologist;2;1
+M9_126262;09/07/2025;Medical oncologist;1;1
+M10_125680;10/08/2025;Medical oncologist;2;1
+M10_100078;10/08/2025;Medical oncologist;4;1
+M10_113809;10/08/2025;Medical oncologist;1;1
+M10_100099;10/08/2025;Medical oncologist;3;1
+M10_100087;10/08/2025;Medical oncologist;1;1
+M10_100072;10/08/2025;Medical oncologist;2;1
+M10_100966;10/08/2025;Medical oncologist;1;1
+M10_100045;10/08/2025;Medical oncologist;1;1
+M10_108025;10/08/2025;Medical oncologist;2;1
+M10_100069;10/08/2025;Medical oncologist;5;1
+M10_100081;10/08/2025;Medical oncologist;1;1
+M10_100060;10/08/2025;Medical oncologist;1;1
+M10_100057;10/08/2025;Medical oncologist;2;1
+M10_100048;10/08/2025;Medical oncologist;3;1
+M10_100066;10/08/2025;Medical oncologist;2;1
+M10_120016;10/08/2025;Medical oncologist;4;1
+M10_107188;10/08/2025;Medical oncologist;3;1
+M10_131011;10/08/2025;Medical oncologist;3;1
+M10_125779;10/08/2025;Medical oncologist;3;1
+M10_118612;10/08/2025;Medical oncologist;3;1
+M10_101323;10/08/2025;Medical oncologist;3;1
+M10_127039;10/08/2025;Medical oncologist;1;1
+M11_136099;11/09/2025;Medical oncologist;2;1
+M11_18073624;11/09/2025;Medical oncologist;3;1
+M11_127828;11/09/2025;Medical oncologist;3;1
+M11_18090433;11/09/2025;Medical oncologist;5;1
+M11_127054;11/09/2025;Medical oncologist;2;1
+M11_134920;11/09/2025;Medical oncologist;2;1
+M11_133510;11/09/2025;Medical oncologist;2;1
+M11_112612;11/09/2025;Medical oncologist;1;1
+M11_159964;11/09/2025;Medical oncologist;3;1
+M11_101524;11/09/2025;Medical oncologist;3;1
+M11_18100582;11/09/2025;Medical oncologist;3;1
+M11_122512;11/09/2025;Medical oncologist;3;1
+M11_103564;11/09/2025;Medical oncologist;3;1
+M5_300045;05/03/2025;Medical oncologist;49;6
+M5_300051;05/03/2025;Medical oncologist;50;6
+M5_300054;05/03/2025;Medical oncologist;50;6
+M5_300057;05/03/2025;Medical oncologist;49;6
+M5_300060;05/03/2025;Medical oncologist;51;6
+M5_300066;05/03/2025;Medical oncologist;50;6
+M5_300069;05/03/2025;Medical oncologist;50;6
+M5_300081;05/03/2025;Medical oncologist;50;6
+M5_300084;05/03/2025;Medical oncologist;50;6
+M5_300105;05/03/2025;Medical oncologist;51;6
+M5_300141;05/03/2025;Medical oncologist;52;6
+M5_300150;05/03/2025;Medical oncologist;52;6
+M5_300174;05/03/2025;Medical oncologist;51;6
+M5_300177;05/03/2025;Medical oncologist;49;6
+M5_300180;05/03/2025;Medical oncologist;49;6
+M5_300189;05/03/2025;Medical oncologist;49;6
+M5_300198;05/03/2025;Medical oncologist;49;6
+M5_300201;05/03/2025;Medical oncologist;49;6
+M5_300204;05/03/2025;Medical oncologist;50;6
+M5_300216;05/03/2025;Medical oncologist;50;6
+M5_300219;05/03/2025;Medical oncologist;49;6
+M5_300222;05/03/2025;Medical oncologist;49;6
+M5_300225;05/03/2025;Medical oncologist;49;6
+M5_300228;05/03/2025;Medical oncologist;52;6
+M5_300234;05/03/2025;Medical oncologist;52;6
+M5_300240;05/03/2025;Medical oncologist;51;6
+M5_300243;05/03/2025;Medical oncologist;50;6
+M5_300249;05/03/2025;Medical oncologist;52;6
+M6_300111;06/04/2025;Medical oncologist;51;6
+M6_300123;06/04/2025;Medical oncologist;51;6
+M6_300369;06/04/2025;Medical oncologist;49;6
+M6_300405;06/04/2025;Medical oncologist;52;6
+M6_300423;06/04/2025;Medical oncologist;49;6
+M6_300558;06/04/2025;Medical oncologist;49;6
+M6_300561;06/04/2025;Medical oncologist;50;6
+M6_300564;06/04/2025;Medical oncologist;52;6
+M6_300576;06/04/2025;Medical oncologist;50;6
+M6_300579;06/04/2025;Medical oncologist;50;6
+M6_300582;06/04/2025;Medical oncologist;51;6
+M6_300588;06/04/2025;Medical oncologist;50;6
+M6_300597;06/04/2025;Medical oncologist;51;6
+M6_300603;06/04/2025;Medical oncologist;51;6
+M6_300609;06/04/2025;Medical oncologist;52;6
+M6_300612;06/04/2025;Medical oncologist;52;6
+M6_300636;06/04/2025;Medical oncologist;52;6
+M6_300666;06/04/2025;Medical oncologist;50;6
+M6_301521;06/04/2025;Medical oncologist;49;6
+M6_302610;06/04/2025;Medical oncologist;51;6
+M6_302961;06/04/2025;Medical oncologist;50;6
+M6_303069;06/04/2025;Medical oncologist;50;6
+M6_303444;06/04/2025;Medical oncologist;50;6
+M6_303600;06/04/2025;Medical oncologist;51;6
+M6_303942;06/04/2025;Medical oncologist;52;6
+M6_304269;06/04/2025;Medical oncologist;50;6
+M6_304302;06/04/2025;Medical oncologist;49;6
+M6_304308;06/04/2025;Medical oncologist;50;6
+M6_304311;06/04/2025;Medical oncologist;51;6
+M6_304314;06/04/2025;Medical oncologist;49;6
+M7_300051;07/05/2025;Medical oncologist;50;6
+M7_300054;07/05/2025;Medical oncologist;50;6
+M7_300069;07/05/2025;Medical oncologist;50;6
+M7_300075;07/05/2025;Medical oncologist;49;6
+M7_300090;07/05/2025;Medical oncologist;51;6
+M7_300096;07/05/2025;Medical oncologist;49;6
+M7_300102;07/05/2025;Medical oncologist;50;6
+M7_300105;07/05/2025;Medical oncologist;51;6
+M7_300108;07/05/2025;Medical oncologist;51;6
+M7_300141;07/05/2025;Medical oncologist;52;6
+M7_300153;07/05/2025;Medical oncologist;50;6
+M7_300183;07/05/2025;Medical oncologist;49;6
+M7_300189;07/05/2025;Medical oncologist;49;6
+M7_300198;07/05/2025;Medical oncologist;49;6
+M7_300216;07/05/2025;Medical oncologist;50;6
+M7_300228;07/05/2025;Medical oncologist;52;6
+M7_300240;07/05/2025;Medical oncologist;51;6
+M7_302604;07/05/2025;Medical oncologist;50;6
+M7_303483;07/05/2025;Medical oncologist;49;6
+M8_300060;08/06/2025;Medical oncologist;51;6
+M8_300150;08/06/2025;Medical oncologist;52;6
+M8_300171;08/06/2025;Medical oncologist;49;6
+M8_300177;08/06/2025;Medical oncologist;49;6
+M8_300192;08/06/2025;Medical oncologist;50;6
+M8_300201;08/06/2025;Medical oncologist;49;6
+M8_300204;08/06/2025;Medical oncologist;50;6
+M8_300219;08/06/2025;Medical oncologist;49;6
+M8_300246;08/06/2025;Medical oncologist;52;6
+M8_300249;08/06/2025;Medical oncologist;52;6
+M8_300252;08/06/2025;Medical oncologist;50;6
+M8_300423;08/06/2025;Medical oncologist;49;6
+M8_300561;08/06/2025;Medical oncologist;50;6
+M8_300567;08/06/2025;Medical oncologist;49;6
+M8_302100;08/06/2025;Medical oncologist;49;6
+M8_302610;08/06/2025;Medical oncologist;51;6
+M8_303756;08/06/2025;Medical oncologist;51;6
+M9_300564;09/07/2025;Medical oncologist;52;6
+M9_304098;09/07/2025;Medical oncologist;50;6
+M9_303444;09/07/2025;Medical oncologist;50;6
+M9_304269;09/07/2025;Medical oncologist;50;6
+M9_300579;09/07/2025;Medical oncologist;50;6
+M9_300609;09/07/2025;Medical oncologist;52;6
+M9_300405;09/07/2025;Medical oncologist;52;6
+M9_300672;09/07/2025;Medical oncologist;51;6
+M9_300603;09/07/2025;Medical oncologist;51;6
+M9_302085;09/07/2025;Medical oncologist;49;6
+M9_304572;09/07/2025;Medical oncologist;49;6
+M9_301521;09/07/2025;Medical oncologist;49;6
+M9_303600;09/07/2025;Medical oncologist;51;6
+M9_300666;09/07/2025;Medical oncologist;50;6
+M9_302961;09/07/2025;Medical oncologist;50;6
+M9_303942;09/07/2025;Medical oncologist;52;6
+M9_301419;09/07/2025;Medical oncologist;52;6
+M10_300078;10/08/2025;Medical oncologist;52;6
+M10_300075;10/08/2025;Medical oncologist;49;6
+M10_300105;10/08/2025;Medical oncologist;51;6
+M10_300102;10/08/2025;Medical oncologist;50;6
+M10_300048;10/08/2025;Medical oncologist;49;6
+M10_300240;10/08/2025;Medical oncologist;51;6
+M10_300216;10/08/2025;Medical oncologist;50;6
+M10_300189;10/08/2025;Medical oncologist;49;6
+M10_300228;10/08/2025;Medical oncologist;52;6
+M10_300081;10/08/2025;Medical oncologist;50;6
+M10_300069;10/08/2025;Medical oncologist;50;6
+M10_300093;10/08/2025;Medical oncologist;51;6
+M10_300222;10/08/2025;Medical oncologist;49;6
+M10_300198;10/08/2025;Medical oncologist;49;6
+M10_300195;10/08/2025;Medical oncologist;50;6
+M10_300096;10/08/2025;Medical oncologist;49;6
+M10_300141;10/08/2025;Medical oncologist;52;6
+M10_300321;10/08/2025;Medical oncologist;49;6
+M10_304611;10/08/2025;Medical oncologist;52;6
+M10_304158;10/08/2025;Medical oncologist;52;6
+M10_304350;10/08/2025;Medical oncologist;51;6
+M10_304452;10/08/2025;Medical oncologist;49;6
+M11_300396;11/09/2025;Medical oncologist;51;6
+M11_300177;11/09/2025;Medical oncologist;49;6
+M11_302610;11/09/2025;Medical oncologist;51;6
+M11_300567;11/09/2025;Medical oncologist;49;6
+M11_300303;11/09/2025;Medical oncologist;49;6
+M11_300597;11/09/2025;Medical oncologist;51;6
+M11_300420;11/09/2025;Medical oncologist;50;6
+M11_300201;11/09/2025;Medical oncologist;49;6
+M11_300162;11/09/2025;Medical oncologist;49;6
+M11_300561;11/09/2025;Medical oncologist;50;6
+M11_300423;11/09/2025;Medical oncologist;49;6
+M11_300171;11/09/2025;Medical oncologist;49;6
+M11_300252;11/09/2025;Medical oncologist;50;6
+M11_300204;11/09/2025;Medical oncologist;50;6
+M11_303756;11/09/2025;Medical oncologist;51;6
+M11_300051;11/09/2025;Medical oncologist;50;6
+M11_300249;11/09/2025;Medical oncologist;52;6
+M11_304617;11/09/2025;Medical oncologist;50;6
+M11_300126;11/09/2025;Medical oncologist;49;6
+1_259664;01/11/2024;Medical oncologist;9;2
+1_259841;02/12/2024;Medical oncologist;7;2
+1_259991;01/11/2024;Medical oncologist;8;2
+1_600861;01/11/2024;Medical oncologist;21;4
+1_601170;01/11/2024;Medical oncologist;23;4
+1_601575;02/12/2024;Medical oncologist;20;4
+1_601740;01/11/2024;Medical oncologist;21;4
+1_601938;01/11/2024;Medical oncologist;28;4
+1_6022113;01/11/2024;Medical oncologist;22;4
+1_602241;01/11/2024;Medical oncologist;29;4
+1_602304;02/12/2024;Medical oncologist;30;4
+1_602382;03/01/2025;Medical oncologist;32;4
+1_602457;01/11/2024;Medical oncologist;32;4
+1_602613;01/11/2024;Medical oncologist;20;4
+1_630528;03/01/2025;Medical oncologist;34;4
+1_638310;01/11/2024;Medical oncologist;34;4
+1_639636;01/11/2024;Medical oncologist;35;4
+1_648378;02/12/2024;Medical oncologist;22;4
+1_649932;02/12/2024;Medical oncologist;22;4
+1_6513611;02/12/2024;Medical oncologist;30;4
+1_6522359;02/12/2024;Medical oncologist;33;4
+1_6524468;02/12/2024;Medical oncologist;38;4
+1_6529655;02/12/2024;Medical oncologist;32;4
+1_6551177;02/12/2024;Medical oncologist;34;4
+1_6554513;02/12/2024;Medical oncologist;33;4
+1_6984179;03/01/2025;Medical oncologist;41;4
+1_6987980;03/01/2025;Medical oncologist;28;4
+1_6991547;03/01/2025;Medical oncologist;34;4
+1_6998432;03/01/2025;Medical oncologist;33;4
+1_6998471;03/01/2025;Medical oncologist;37;4
+1_6998552;03/01/2025;Medical oncologist;31;4
+1_7016495;03/01/2025;Medical oncologist;20;4
+1_7025375;03/01/2025;Medical oncologist;22;4
+1_7088835;03/01/2025;Medical oncologist;36;4
+1_7095132;03/01/2025;Medical oncologist;38;4
+1_7115916;03/01/2025;Medical oncologist;41;4
+1_7134069;03/01/2025;Medical oncologist;24;4
+1_8001152;01/11/2024;Medical oncologist;44;5
+1_8001203;01/11/2024;Medical oncologist;44;5
+1_8001815;03/01/2025;Medical oncologist;45;5
+1_8027540;02/12/2024;Medical oncologist;46;5
+1_8034914;03/01/2025;Medical oncologist;47;5
+1_8040185;03/01/2025;Medical oncologist;46;5
+1_8041922;03/01/2025;Medical oncologist;47;5
+1_8049932;02/12/2024;Medical oncologist;45;5
+1_8059943;03/01/2025;Medical oncologist;45;5
+M5_2596820;05/03/2025;Medical oncologist;10;2
+M6_202388;06/04/2025;Medical oncologist;6;2
+M8_2101100;08/06/2025;Medical oncologist;10;2
+M8_2160770;08/06/2025;Medical oncologist;8;2
+M8_2479040;08/06/2025;Medical oncologist;8;2
+M10_252233;10/08/2025;Medical oncologist;7;2
+M11_2160770;11/09/2025;Medical oncologist;8;2
+M11_2526530;11/09/2025;Medical oncologist;9;2
+1_559982;02/12/2024;Oncologist;13;3
+1_6506987;02/12/2024;Oncologist;23;4
+1_6518225;02/12/2024;Oncologist;37;4
+1_6523451;02/12/2024;Oncologist;34;4
+1_6532397;02/12/2024;Oncologist;33;4
+1_6538229;02/12/2024;Oncologist;23;4
+1_6539942;02/12/2024;Oncologist;21;4
+1_6554840;02/12/2024;Oncologist;39;4
+1_6557912;02/12/2024;Oncologist;40;4
+1_6882863;02/12/2024;Oncologist;20;4
+1_6988109;03/01/2025;Oncologist;22;4
+1_6993986;03/01/2025;Oncologist;39;4
+1_7027337;03/01/2025;Oncologist;42;4
+1_7053437;03/01/2025;Oncologist;35;4
+1_8040719;03/01/2025;Oncologist;48;5
+1_8055266;02/12/2024;Oncologist;48;5
+M5_400132;05/03/2025;Oncologist;57;7
+M5_400135;05/03/2025;Oncologist;55;7
+M5_400255;05/03/2025;Oncologist;55;7
+M5_400300;05/03/2025;Oncologist;55;7
+M5_400549;05/03/2025;Oncologist;55;7
+M5_400660;05/03/2025;Oncologist;57;7
+M5_400771;05/03/2025;Oncologist;53;7
+M5_559781;05/03/2025;Oncologist;13;3
+M6_400975;06/04/2025;Oncologist;57;7
+M6_559268;06/04/2025;Oncologist;15;3
+M6_559280;06/04/2025;Oncologist;18;3
+M6_559373;06/04/2025;Oncologist;12;3
+M6_559382;06/04/2025;Oncologist;12;3
+M6_559391;06/04/2025;Oncologist;18;3
+M6_559910;06/04/2025;Oncologist;17;3
+M7_400282;07/05/2025;Oncologist;53;7
+M7_400594;07/05/2025;Oncologist;57;7
+M7_400771;07/05/2025;Oncologist;53;7
+M7_559973;07/05/2025;Oncologist;17;3
+M8_400300;08/06/2025;Oncologist;55;7
+M8_400549;08/06/2025;Oncologist;55;7
+M8_402040;08/06/2025;Oncologist;57;7
+M8_507896;08/06/2025;Oncologist;17;3
+M9_559910;09/07/2025;Oncologist;17;3
+M9_559316;09/07/2025;Oncologist;13;3
+M9_400438;09/07/2025;Oncologist;57;7
+M9_400348;09/07/2025;Oncologist;56;7
+M10_400132;10/08/2025;Oncologist;57;7
+M10_400594;10/08/2025;Oncologist;57;7
+M10_559991;10/08/2025;Oncologist;13;3
+M10_400771;10/08/2025;Oncologist;53;7
+M10_547256;10/08/2025;Oncologist;13;3
+M10_559703;10/08/2025;Oncologist;17;3
+M10_400660;10/08/2025;Oncologist;57;7
+M10_544103;10/08/2025;Oncologist;14;3
+M11_507896;11/09/2025;Oncologist;17;3
+M11_511838;11/09/2025;Oncologist;13;3
+M11_504401;11/09/2025;Oncologist;14;3
+M11_559832;11/09/2025;Oncologist;18;3
+M11_559880;11/09/2025;Oncologist;17;3
+1_100591;01/11/2024;Oncologist;1;1
+1_101227;02/12/2024;Oncologist;1;1
+1_105622;03/01/2025;Oncologist;1;1
+1_103414;01/11/2024;Oncologist;2;1
+1_103675;03/01/2025;Oncologist;2;1
+1_100441;03/01/2025;Oncologist;3;1
+1_103186;01/11/2024;Oncologist;3;1
+1_105406;02/12/2024;Oncologist;3;1
+1_139441;03/01/2025;Oncologist;3;1
+1_103276;01/11/2024;Oncologist;4;1
+1_105469;01/11/2024;Oncologist;4;1
+1_105535;03/01/2025;Oncologist;5;1
+M4_100054;04/02/2025;Oncologist;3;1
+M4_100057;04/02/2025;Oncologist;2;1
+M4_100063;04/02/2025;Oncologist;4;1
+M4_100075;04/02/2025;Oncologist;4;1
+M4_100084;04/02/2025;Oncologist;1;1
+M5_100051;05/03/2025;Oncologist;1;1
+M5_100066;05/03/2025;Oncologist;2;1
+M5_100090;05/03/2025;Oncologist;2;1
+M5_110197;05/03/2025;Oncologist;2;1
+M5_118567;05/03/2025;Oncologist;3;1
+M5_130753;05/03/2025;Oncologist;2;1
+M6_102820;06/04/2025;Oncologist;4;1
+M6_114409;06/04/2025;Oncologist;2;1
+M6_119404;06/04/2025;Oncologist;3;1
+M6_139075;06/04/2025;Oncologist;2;1
+M6_219860;06/04/2025;Oncologist;3;1
+M6_219884;06/04/2025;Oncologist;5;1
+M6_219977;06/04/2025;Oncologist;1;1
+M6_219980;06/04/2025;Oncologist;3;1
+M7_100051;07/05/2025;Oncologist;1;1
+M7_100054;07/05/2025;Oncologist;3;1
+M7_100063;07/05/2025;Oncologist;4;1
+M7_100075;07/05/2025;Oncologist;4;1
+M7_100084;07/05/2025;Oncologist;1;1
+M7_100090;07/05/2025;Oncologist;2;1
+M7_100966;07/05/2025;Oncologist;1;1
+M8_118567;08/06/2025;Oncologist;3;1
+M8_130753;08/06/2025;Oncologist;2;1
+M8_18084190;08/06/2025;Oncologist;2;1
+M8_18101518;08/06/2025;Oncologist;3;1
+M9_114409;09/07/2025;Oncologist;2;1
+M9_132871;09/07/2025;Oncologist;3;1
+M9_129034;09/07/2025;Oncologist;5;1
+M9_127897;09/07/2025;Oncologist;3;1
+M9_120865;09/07/2025;Oncologist;1;1
+M10_100084;10/08/2025;Oncologist;1;1
+M10_100090;10/08/2025;Oncologist;2;1
+M10_100054;10/08/2025;Oncologist;3;1
+M10_100051;10/08/2025;Oncologist;1;1
+M10_100075;10/08/2025;Oncologist;4;1
+M10_110197;10/08/2025;Oncologist;2;1
+M10_105553;10/08/2025;Oncologist;1;1
+M11_18065101;11/09/2025;Oncologist;2;1
+M11_137065;11/09/2025;Oncologist;3;1
+M11_128281;11/09/2025;Oncologist;5;1
+M11_130753;11/09/2025;Oncologist;2;1
+M11_18115492;11/09/2025;Oncologist;3;1
+M11_118567;11/09/2025;Oncologist;3;1
+M11_100666;11/09/2025;Oncologist;1;1
+M11_102640;11/09/2025;Oncologist;1;1
+M11_104671;11/09/2025;Oncologist;5;1
+M11_127645;11/09/2025;Oncologist;2;1
+M11_126943;11/09/2025;Oncologist;4;1
+M11_134767;11/09/2025;Oncologist;1;1
+M11_101974;11/09/2025;Oncologist;1;1
+M5_300063;05/03/2025;Oncologist;49;6
+M5_300072;05/03/2025;Oncologist;51;6
+M5_300075;05/03/2025;Oncologist;49;6
+M5_300078;05/03/2025;Oncologist;52;6
+M5_300087;05/03/2025;Oncologist;51;6
+M5_300090;05/03/2025;Oncologist;51;6
+M5_300096;05/03/2025;Oncologist;49;6
+M5_300099;05/03/2025;Oncologist;51;6
+M5_300102;05/03/2025;Oncologist;50;6
+M5_300108;05/03/2025;Oncologist;51;6
+M5_300162;05/03/2025;Oncologist;49;6
+M5_300186;05/03/2025;Oncologist;49;6
+M5_300192;05/03/2025;Oncologist;50;6
+M5_300195;05/03/2025;Oncologist;50;6
+M5_300207;05/03/2025;Oncologist;49;6
+M5_300210;05/03/2025;Oncologist;49;6
+M5_300246;05/03/2025;Oncologist;52;6
+M5_300252;05/03/2025;Oncologist;50;6
+M6_300048;06/04/2025;Oncologist;52;6
+M6_300426;06/04/2025;Oncologist;49;6
+M6_300567;06/04/2025;Oncologist;49;6
+M6_300570;06/04/2025;Oncologist;51;6
+M6_300585;06/04/2025;Oncologist;49;6
+M6_300672;06/04/2025;Oncologist;51;6
+M6_303000;06/04/2025;Oncologist;51;6
+M6_304272;06/04/2025;Oncologist;49;6
+M6_304317;06/04/2025;Oncologist;51;6
+M7_300045;07/05/2025;Oncologist;49;6
+M7_300063;07/05/2025;Oncologist;49;6
+M7_300078;07/05/2025;Oncologist;52;6
+M7_300081;07/05/2025;Oncologist;50;6
+M7_300093;07/05/2025;Oncologist;51;6
+M7_300099;07/05/2025;Oncologist;51;6
+M7_300114;07/05/2025;Oncologist;51;6
+M7_300195;07/05/2025;Oncologist;50;6
+M7_300222;07/05/2025;Oncologist;49;6
+M8_300057;08/06/2025;Oncologist;49;6
+M8_300066;08/06/2025;Oncologist;50;6
+M8_300087;08/06/2025;Oncologist;51;6
+M8_300162;08/06/2025;Oncologist;49;6
+M8_300174;08/06/2025;Oncologist;50;6
+M8_300180;08/06/2025;Oncologist;49;6
+M8_300186;08/06/2025;Oncologist;49;6
+M8_300207;08/06/2025;Oncologist;49;6
+M8_300210;08/06/2025;Oncologist;49;6
+M8_300243;08/06/2025;Oncologist;50;6
+M8_300570;08/06/2025;Oncologist;51;6
+M8_300597;08/06/2025;Oncologist;51;6
+M8_303765;08/06/2025;Oncologist;51;6
+M9_303774;09/07/2025;Oncologist;51;6
+M9_300612;09/07/2025;Oncologist;52;6
+M9_303000;09/07/2025;Oncologist;51;6
+M9_300225;09/07/2025;Oncologist;49;6
+M9_300576;09/07/2025;Oncologist;50;6
+M9_300585;09/07/2025;Oncologist;49;6
+M9_300588;09/07/2025;Oncologist;50;6
+M9_304314;09/07/2025;Oncologist;49;6
+M9_304272;09/07/2025;Oncologist;49;6
+M9_304317;09/07/2025;Oncologist;51;6
+M9_304578;09/07/2025;Oncologist;49;6
+M9_300582;09/07/2025;Oncologist;51;6
+M10_300099;10/08/2025;Oncologist;51;6
+M10_300108;10/08/2025;Oncologist;51;6
+M10_300063;10/08/2025;Oncologist;49;6
+M10_300114;10/08/2025;Oncologist;51;6
+M10_300045;10/08/2025;Oncologist;49;6
+M10_300054;10/08/2025;Oncologist;50;6
+M10_300279;10/08/2025;Oncologist;50;6
+M11_300570;11/09/2025;Oncologist;51;6
+M11_300186;11/09/2025;Oncologist;49;6
+M11_300207;11/09/2025;Oncologist;49;6
+M11_300210;11/09/2025;Oncologist;49;6
+M11_300183;11/09/2025;Oncologist;49;6
+M11_300090;11/09/2025;Oncologist;51;6
+M11_300246;11/09/2025;Oncologist;52;6
+M11_300087;11/09/2025;Oncologist;51;6
+M11_300144;11/09/2025;Oncologist;52;6
+M11_304554;11/09/2025;Oncologist;51;6
+1_100483;02/12/2024;Gynecologic oncologist;1;1
+1_103054;02/12/2024;Gynecologic oncologist;1;1
+1_559730;03/01/2025;Gynecologic oncologist;13;3
+1_559748;03/01/2025;Gynecologic oncologist;15;3
+1_559973;02/12/2024;Gynecologic oncologist;19;3
+1_559991;02/12/2024;Gynecologic oncologist;15;3
+1_601785;01/11/2024;Gynecologic oncologist;20;4
+1_601797;02/12/2024;Gynecologic oncologist;27;4
+1_602310;02/12/2024;Gynecologic oncologist;31;4
+1_602616;03/01/2025;Gynecologic oncologist;20;4
+1_610830;02/12/2024;Gynecologic oncologist;25;4
+1_621396;02/12/2024;Gynecologic oncologist;33;4
+1_6524813;02/12/2024;Gynecologic oncologist;20;4
+1_6535511;02/12/2024;Gynecologic oncologist;32;4
+1_6535664;02/12/2024;Gynecologic oncologist;20;4
+1_6545387;02/12/2024;Gynecologic oncologist;32;4
+1_6547757;02/12/2024;Gynecologic oncologist;32;4
+1_6989753;03/01/2025;Gynecologic oncologist;32;4
+1_6998453;03/01/2025;Gynecologic oncologist;25;4
+1_7117278;03/01/2025;Gynecologic oncologist;32;4
+1_7117869;03/01/2025;Gynecologic oncologist;43;4
+M4_559970;04/02/2025;Gynecologic oncologist;17;3
+M4_559982;04/02/2025;Gynecologic oncologist;13;3
+M5_127498;05/03/2025;Gynecologic oncologist;3;1
+M5_133624;05/03/2025;Gynecologic oncologist;1;1
+M5_134491;05/03/2025;Gynecologic oncologist;3;1
+M5_137065;05/03/2025;Gynecologic oncologist;5;1
+M5_300153;05/03/2025;Gynecologic oncologist;50;6
+M5_300171;05/03/2025;Gynecologic oncologist;49;6
+M5_300183;05/03/2025;Gynecologic oncologist;49;6
+M5_559643;05/03/2025;Gynecologic oncologist;19;3
+M5_559652;05/03/2025;Gynecologic oncologist;17;3
+M5_559655;05/03/2025;Gynecologic oncologist;15;3
+M5_559673;05/03/2025;Gynecologic oncologist;11;3
+M5_559721;05/03/2025;Gynecologic oncologist;15;3
+M5_559751;05/03/2025;Gynecologic oncologist;18;3
+M5_559799;05/03/2025;Gynecologic oncologist;15;3
+M5_559802;05/03/2025;Gynecologic oncologist;15;3
+M5_559805;05/03/2025;Gynecologic oncologist;15;3
+M6_115945;06/04/2025;Gynecologic oncologist;5;1
+M6_219908;06/04/2025;Gynecologic oncologist;2;1
+M6_219968;06/04/2025;Gynecologic oncologist;4;1
+M6_219989;06/04/2025;Gynecologic oncologist;3;1
+M6_303039;06/04/2025;Gynecologic oncologist;49;6
+M6_559304;06/04/2025;Gynecologic oncologist;18;3
+M6_559343;06/04/2025;Gynecologic oncologist;15;3
+M6_559352;06/04/2025;Gynecologic oncologist;15;3
+M6_559355;06/04/2025;Gynecologic oncologist;13;3
+M6_559862;06/04/2025;Gynecologic oncologist;13;3
+M7_136123;07/05/2025;Gynecologic oncologist;2;1
+M7_300084;07/05/2025;Gynecologic oncologist;50;6
+M7_300234;07/05/2025;Gynecologic oncologist;52;6
+M7_526769;07/05/2025;Gynecologic oncologist;14;3
+M7_543500;07/05/2025;Gynecologic oncologist;15;3
+M7_555233;07/05/2025;Gynecologic oncologist;12;3
+M7_559652;07/05/2025;Gynecologic oncologist;17;3
+M7_559655;07/05/2025;Gynecologic oncologist;15;3
+M7_559970;07/05/2025;Gynecologic oncologist;17;3
+M7_559982;07/05/2025;Gynecologic oncologist;13;3
+M7_559997;07/05/2025;Gynecologic oncologist;13;3
+M8_115945;08/06/2025;Gynecologic oncologist;5;1
+M8_127498;08/06/2025;Gynecologic oncologist;3;1
+M8_134491;08/06/2025;Gynecologic oncologist;3;1
+M8_533576;08/06/2025;Gynecologic oncologist;14;3
+M8_534731;08/06/2025;Gynecologic oncologist;15;3
+M8_537251;08/06/2025;Gynecologic oncologist;15;3
+M8_559721;08/06/2025;Gynecologic oncologist;15;3
+M8_559862;08/06/2025;Gynecologic oncologist;13;3
+M9_559352;09/07/2025;Gynecologic oncologist;15;3
+M9_559343;09/07/2025;Gynecologic oncologist;15;3
+M9_527900;09/07/2025;Gynecologic oncologist;15;3
+M9_555689;09/07/2025;Gynecologic oncologist;13;3
+M9_559355;09/07/2025;Gynecologic oncologist;13;3
+M9_300636;09/07/2025;Gynecologic oncologist;52;6
+M9_113965;09/07/2025;Gynecologic oncologist;1;1
+M9_534377;09/07/2025;Gynecologic oncologist;15;3
+M10_559970;10/08/2025;Gynecologic oncologist;17;3
+M10_559982;10/08/2025;Gynecologic oncologist;13;3
+M10_526769;10/08/2025;Gynecologic oncologist;14;3
+M10_300153;10/08/2025;Gynecologic oncologist;50;6
+M10_543500;10/08/2025;Gynecologic oncologist;15;3
+M10_502589;10/08/2025;Gynecologic oncologist;14;3
+M10_519788;10/08/2025;Gynecologic oncologist;15;3
+M10_500600;10/08/2025;Gynecologic oncologist;17;3
+M10_541403;10/08/2025;Gynecologic oncologist;18;3
+M10_558341;10/08/2025;Gynecologic oncologist;18;3
+M11_506921;11/09/2025;Gynecologic oncologist;18;3
+M11_551519;11/09/2025;Gynecologic oncologist;18;3
+M11_559862;11/09/2025;Gynecologic oncologist;13;3
+M11_127498;11/09/2025;Gynecologic oncologist;3;1
+M11_537251;11/09/2025;Gynecologic oncologist;15;3
+M11_300180;11/09/2025;Gynecologic oncologist;49;6
+M11_115945;11/09/2025;Gynecologic oncologist;5;1
+M11_559721;11/09/2025;Gynecologic oncologist;15;3
+M11_544781;11/09/2025;Gynecologic oncologist;15;3
+M11_533576;11/09/2025;Gynecologic oncologist;14;3
+M11_134491;11/09/2025;Gynecologic oncologist;3;1
+1_106318;02/12/2024;Onco-hematologist;1;1
+1_104077;01/11/2024;Onco-hematologist;4;1
+1_600312;03/01/2025;Onco-hematologist;20;4
+1_6011655;01/11/2024;Onco-hematologist;22;4
+1_601233;03/01/2025;Onco-hematologist;24;4
+1_601596;01/11/2024;Onco-hematologist;25;4
+1_601749;02/12/2024;Onco-hematologist;26;4
+1_601869;02/12/2024;Onco-hematologist;28;4
+1_638052;01/11/2024;Onco-hematologist;20;4
+1_645834;02/12/2024;Onco-hematologist;36;4
+1_6551963;02/12/2024;Onco-hematologist;36;4
+1_6557717;02/12/2024;Onco-hematologist;20;4
+1_7031045;03/01/2025;Onco-hematologist;20;4
+1_7117380;03/01/2025;Onco-hematologist;41;4
+1_7120338;03/01/2025;Onco-hematologist;32;4
+M5_136099;05/03/2025;Onco-hematologist;2;1
+M5_300093;05/03/2025;Onco-hematologist;51;6
+M6_400453;06/04/2025;Onco-hematologist;56;7
+M11_100096;11/09/2025;Onco-hematologist;3;1
+1_259256;02/12/2024;Gynecologic oncologist;6;2
+1_259286;03/01/2025;Oncologist;6;2
+1_259331;03/01/2025;Gynecologic oncologist;6;2
+1_259652;01/11/2024;Oncologist;6;2
+1_259262;02/12/2024;Oncologist;7;2
+1_259277;02/12/2024;Oncologist;7;2
+1_259301;03/01/2025;Gynecologic oncologist;7;2
+1_259334;03/01/2025;Gynecologic oncologist;7;2
+1_259343;03/01/2025;Gynecologic oncologist;7;2
+1_259673;01/11/2024;Oncologist;7;2
+1_259679;01/11/2024;Oncologist;7;2
+1_259337;03/01/2025;Oncologist;9;2
+1_259670;01/11/2024;Gynecologic oncologist;10;2
+1_259712;01/11/2024;Gynecologic oncologist;6;2
+1_259727;02/12/2024;Oncologist;10;2
+1_259739;02/12/2024;Gynecologic oncologist;10;2
+1_259787;02/12/2024;Oncologist;10;2
+1_259856;03/01/2025;Gynecologic oncologist;7;2
+1_259934;03/01/2025;Oncologist;9;2
+1_259940;03/01/2025;Oncologist;9;2
+1_259955;02/12/2024;Gynecologic oncologist;9;2
+1_259961;02/12/2024;Gynecologic oncologist;10;2
+1_259967;02/12/2024;Oncologist;7;2
+1_259994;01/11/2024;Oncologist;9;2
+1_259997;01/11/2024;Gynecologic oncologist;10;2
+M5_200054;05/03/2025;Oncologist;7;2
+M5_200057;05/03/2025;Oncologist;6;2
+M5_200078;05/03/2025;Oncologist;9;2
+M5_200138;05/03/2025;Oncologist;6;2
+M5_200144;05/03/2025;Oncologist;7;2
+M5_200162;05/03/2025;Oncologist;9;2
+M5_200246;05/03/2025;Oncologist;9;2
+M5_200450;05/03/2025;Oncologist;9;2
+M5_200453;05/03/2025;Oncologist;6;2
+M5_200606;05/03/2025;Gynecologic oncologist;9;2
+M5_200909;05/03/2025;Oncologist;7;2
+M5_200918;05/03/2025;Oncologist;7;2
+M5_201002;05/03/2025;Oncologist;7;2
+M5_201020;05/03/2025;Oncologist;9;2
+M5_201026;05/03/2025;Gynecologic oncologist;6;2
+M5_201035;05/03/2025;Oncologist;10;2
+M5_201050;05/03/2025;Oncologist;10;2
+M5_201056;05/03/2025;Gynecologic oncologist;6;2
+M5_2596370;05/03/2025;Oncologist;10;2
+M5_2596400;05/03/2025;Oncologist;10;2
+M5_2596430;05/03/2025;Oncologist;9;2
+M5_2596520;05/03/2025;Gynecologic oncologist;9;2
+M5_2596550;05/03/2025;Gynecologic oncologist;7;2
+M5_2596640;05/03/2025;Gynecologic oncologist;6;2
+M5_2596730;05/03/2025;Oncologist;9;2
+M5_259775;05/03/2025;Oncologist;6;2
+M6_201089;06/04/2025;Oncologist;10;2
+M6_201092;06/04/2025;Oncologist;7;2
+M6_201110;06/04/2025;Oncologist;9;2
+M6_201116;06/04/2025;Oncologist;9;2
+M6_201134;06/04/2025;Oncologist;10;2
+M6_201173;06/04/2025;Gynecologic oncologist;6;2
+M6_201245;06/04/2025;Oncologist;7;2
+M6_201260;06/04/2025;Oncologist;7;2
+M6_201302;06/04/2025;Gynecologic oncologist;6;2
+M6_201308;06/04/2025;Oncologist;9;2
+M6_201332;06/04/2025;Oncologist;10;2
+M6_201335;06/04/2025;Oncologist;7;2
+M6_201338;06/04/2025;Oncologist;6;2
+M6_201344;06/04/2025;Gynecologic oncologist;9;2
+M6_201350;06/04/2025;Gynecologic oncologist;10;2
+M6_201353;06/04/2025;Oncologist;9;2
+M6_201356;06/04/2025;Gynecologic oncologist;9;2
+M6_201716;06/04/2025;Gynecologic oncologist;6;2
+M6_201839;06/04/2025;Gynecologic oncologist;9;2
+M6_202238;06/04/2025;Oncologist;9;2
+M6_202370;06/04/2025;Gynecologic oncologist;6;2
+M6_203885;06/04/2025;Gynecologic oncologist;7;2
+M7_200162;07/05/2025;Oncologist;9;2
+M7_200450;07/05/2025;Oncologist;9;2
+M7_200960;07/05/2025;Gynecologic oncologist;9;2
+M7_200993;07/05/2025;Oncologist;7;2
+M7_201026;07/05/2025;Gynecologic oncologist;6;2
+M7_201044;07/05/2025;Oncologist;9;2
+M7_201062;07/05/2025;Oncologist;9;2
+M7_201140;07/05/2025;Gynecologic oncologist;10;2
+M7_201233;07/05/2025;Oncologist;7;2
+M7_201368;07/05/2025;Oncologist;10;2
+M7_201446;07/05/2025;Oncologist;10;2
+M7_201668;07/05/2025;Oncologist;9;2
+M7_201743;07/05/2025;Gynecologic oncologist;6;2
+M7_201836;07/05/2025;Gynecologic oncologist;7;2
+M7_202145;07/05/2025;Gynecologic oncologist;6;2
+M7_203102;07/05/2025;Oncologist;9;2
+M7_203501;07/05/2025;Oncologist;6;2
+M7_203840;07/05/2025;Oncologist;6;2
+M7_2596370;07/05/2025;Oncologist;10;2
+M7_2596400;07/05/2025;Gynecologic oncologist;10;2
+M7_2596430;07/05/2025;Oncologist;9;2
+M7_2596550;07/05/2025;Gynecologic oncologist;7;2
+M8_2018120;08/06/2025;Oncologist;7;2
+M8_2023670;08/06/2025;Oncologist;10;2
+M8_2043800;08/06/2025;Oncologist;7;2
+M8_2045720;08/06/2025;Gynecologic oncologist;6;2
+M8_2068490;08/06/2025;Oncologist;6;2
+M8_2087630;08/06/2025;Gynecologic oncologist;9;2
+M8_2125460;08/06/2025;Oncologist;7;2
+M8_2160740;08/06/2025;Gynecologic oncologist;7;2
+M8_2203880;08/06/2025;Oncologist;6;2
+M8_2221490;08/06/2025;Oncologist;9;2
+M8_2346080;08/06/2025;Oncologist;9;2
+M8_2369420;08/06/2025;Oncologist;9;2
+M8_2396720;08/06/2025;Gynecologic oncologist;9;2
+M8_2418920;08/06/2025;Oncologist;9;2
+M8_2451800;08/06/2025;Gynecologic oncologist;6;2
+M8_2487230;08/06/2025;Oncologist;10;2
+M8_2500940;08/06/2025;Gynecologic oncologist;6;2
+M8_2516810;08/06/2025;Oncologist;9;2
+M8_2526530;08/06/2025;Oncologist;9;2
+M8_2533970;08/06/2025;Oncologist;7;2
+M8_2583380;08/06/2025;Oncologist;9;2
+M9_Ley2248648;09/07/2025;Gynecologic oncologist;7;2
+M9_Ley2229670;09/07/2025;Gynecologic oncologist;6;2
+M9_Ley2253487;09/07/2025;Gynecologic oncologist;6;2
+M9_Ley2234236;09/07/2025;Gynecologic oncologist;6;2
+M9_Ley2254093;09/07/2025;Oncologist;6;2
+M9_Ley2225398;09/07/2025;Oncologist;6;2
+M9_Ley2239114;09/07/2025;Oncologist;9;2
+M9_Ley2203291;09/07/2025;Gynecologic oncologist;6;2
+M9_Ley2232043;09/07/2025;Oncologist;7;2
+M9_Ley2200102;09/07/2025;Gynecologic oncologist;9;2
+M9_Ley2200099;09/07/2025;Gynecologic oncologist;6;2
+M9_Ley2203921;09/07/2025;Oncologist;9;2
+M9_Ley2200123;09/07/2025;Oncologist;7;2
+M9_Ley2238496;09/07/2025;Oncologist;9;2
+M9_Ley2203903;09/07/2025;Gynecologic oncologist;6;2
+M9_Ley2204065;09/07/2025;Gynecologic oncologist;9;2
+M9_Ley2243935;09/07/2025;Oncologist;7;2
+M9_Ley2258704;09/07/2025;Gynecologic oncologist;6;2
+M10_201368;10/08/2025;Oncologist;10;2
+M10_200993;10/08/2025;Oncologist;7;2
+M10_211739;10/08/2025;Oncologist;6;2
+M10_215207;10/08/2025;Oncologist;9;2
+M10_212618;10/08/2025;Oncologist;7;2
+M10_222875;10/08/2025;Oncologist;9;2
+M10_237335;10/08/2025;Oncologist;7;2
+M10_200114;10/08/2025;Gynecologic oncologist;6;2
+M10_243902;10/08/2025;Oncologist;6;2
+M10_226184;10/08/2025;Oncologist;10;2
+M10_230459;10/08/2025;Oncologist;10;2
+M10_233672;10/08/2025;Gynecologic oncologist;9;2
+M10_252773;10/08/2025;Gynecologic oncologist;6;2
+M10_259166;10/08/2025;Oncologist;7;2
+M10_201233;10/08/2025;Oncologist;7;2
+M10_201446;10/08/2025;Oncologist;10;2
+M10_258797;10/08/2025;Oncologist;9;2
+M10_214097;10/08/2025;Oncologist;9;2
+M11_2023670;11/09/2025;Oncologist;10;2
+M11_2178710;11/09/2025;Gynecologic oncologist;7;2
+M11_2045720;11/09/2025;Oncologist;6;2
+M11_2533970;11/09/2025;Oncologist;7;2
+M11_2018120;11/09/2025;Oncologist;7;2
+M11_2043800;11/09/2025;Oncologist;7;2
+M11_2203880;11/09/2025;Gynecologic oncologist;6;2
+M11_2418920;11/09/2025;Oncologist;9;2
+M11_2500940;11/09/2025;Gynecologic oncologist;6;2
+M11_2162900;11/09/2025;Oncologist;10;2
+M11_2583380;11/09/2025;Oncologist;9;2
+M11_2068490;11/09/2025;Oncologist;6;2
+M11_2101100;11/09/2025;Oncologist;10;2
+M11_230507;11/09/2025;Oncologist;6;2
+M11_2516810;11/09/2025;Oncologist;9;2
+M11_2346080;11/09/2025;Oncologist;9;2
+M11_2125460;11/09/2025;Oncologist;7;2
+M11_2588870;11/09/2025;Oncologist;6;2
+M11_2487230;11/09/2025;Oncologist;10;2
+M11_2594330;11/09/2025;Gynecologic oncologist;6;2
+M11_2270120;11/09/2025;Oncologist;7;2
+1_259313;03/01/2025;Oncologist;8;2
+1_259643;01/11/2024;Gynecologic oncologist;8;2
+1_259667;01/11/2024;Gynecologic oncologist;8;2
+1_259682;01/11/2024;Oncologist;8;2
+1_259691;01/11/2024;Gynecologic oncologist;8;2
+1_259736;02/12/2024;Oncologist;8;2
+1_259742;02/12/2024;Gynecologic oncologist;8;2
+1_259871;03/01/2025;Oncologist;8;2
+1_259877;03/01/2025;Gynecologic oncologist;8;2
+1_259949;02/12/2024;Gynecologic oncologist;8;2
+1_259979;02/12/2024;Gynecologic oncologist;8;2
+1_259988;01/11/2024;Gynecologic oncologist;8;2
+M5_200045;05/03/2025;Oncologist;8;2
+M5_200048;05/03/2025;Oncologist;8;2
+M5_201017;05/03/2025;Oncologist;8;2
+M5_201029;05/03/2025;Oncologist;8;2
+M5_201032;05/03/2025;Oncologist;8;2
+M5_201041;05/03/2025;Gynecologic oncologist;8;2
+M5_201044;05/03/2025;Oncologist;8;2
+M5_2596490;05/03/2025;Oncologist;8;2
+M5_2596670;05/03/2025;Gynecologic oncologist;8;2
+M5_2596760;05/03/2025;Gynecologic oncologist;8;2
+M6_201098;06/04/2025;Gynecologic oncologist;8;2
+M6_201122;06/04/2025;Oncologist;8;2
+M6_201158;06/04/2025;Oncologist;8;2
+M6_201218;06/04/2025;Gynecologic oncologist;8;2
+M6_201254;06/04/2025;Oncologist;8;2
+M6_201272;06/04/2025;Gynecologic oncologist;8;2
+M6_201275;06/04/2025;Gynecologic oncologist;8;2
+M6_201290;06/04/2025;Gynecologic oncologist;8;2
+M6_201293;06/04/2025;Oncologist;8;2
+M6_201323;06/04/2025;Gynecologic oncologist;8;2
+M6_201386;06/04/2025;Oncologist;8;2
+M6_201476;06/04/2025;Gynecologic oncologist;8;2
+M6_202409;06/04/2025;Gynecologic oncologist;8;2
+M6_202706;06/04/2025;Oncologist;8;2
+M6_202763;06/04/2025;Gynecologic oncologist;8;2
+M7_201029;07/05/2025;Oncologist;8;2
+M7_201032;07/05/2025;Gynecologic oncologist;8;2
+M7_201035;07/05/2025;Oncologist;8;2
+M7_201041;07/05/2025;Gynecologic oncologist;8;2
+M7_201050;07/05/2025;Oncologist;8;2
+M7_202952;07/05/2025;Oncologist;8;2
+M7_203198;07/05/2025;Gynecologic oncologist;8;2
+M7_2596490;07/05/2025;Oncologist;8;2
+M8_2061500;08/06/2025;Gynecologic oncologist;8;2
+M8_2136800;08/06/2025;Gynecologic oncologist;8;2
+M8_2179220;08/06/2025;Oncologist;8;2
+M8_2490890;08/06/2025;Gynecologic oncologist;8;2
+M8_2547050;08/06/2025;Gynecologic oncologist;8;2
+M8_2562890;08/06/2025;Gynecologic oncologist;8;2
+M9_Ley2230597;09/07/2025;Gynecologic oncologist;8;2
+M9_Ley2248939;09/07/2025;Gynecologic oncologist;8;2
+M9_Ley2257444;09/07/2025;Oncologist;8;2
+M9_Ley2203246;09/07/2025;Oncologist;8;2
+M9_Ley2243737;09/07/2025;Oncologist;8;2
+M9_Ley2203651;09/07/2025;Oncologist;8;2
+M9_Ley2200108;09/07/2025;Oncologist;8;2
+M9_Ley2203876;09/07/2025;Oncologist;8;2
+M9_Ley2204155;09/07/2025;Oncologist;8;2
+M9_Ley2200057;09/07/2025;Oncologist;8;2
+M9_Ley2203966;09/07/2025;Gynecologic oncologist;8;2
+M9_Ley2247265;09/07/2025;Oncologist;8;2
+M10_201050;10/08/2025;Oncologist;8;2
+M10_201032;10/08/2025;Gynecologic oncologist;8;2
+M10_203198;10/08/2025;Gynecologic oncologist;8;2
+M10_201035;10/08/2025;Oncologist;8;2
+M10_230756;10/08/2025;Oncologist;8;2
+M10_221390;10/08/2025;Oncologist;8;2
+M10_213809;10/08/2025;Oncologist;8;2
+M10_258545;10/08/2025;Gynecologic oncologist;8;2
+M10_212747;10/08/2025;Gynecologic oncologist;8;2
+M10_213791;10/08/2025;Oncologist;8;2
+M11_2214620;11/09/2025;Oncologist;8;2
+M11_2179220;11/09/2025;Oncologist;8;2
+M11_2453930;11/09/2025;Oncologist;8;2
+M11_2061500;11/09/2025;Gynecologic oncologist;8;2
+M11_2054750;11/09/2025;Gynecologic oncologist;8;2
+M11_2490890;11/09/2025;Gynecologic oncologist;8;2
+M11_2562890;11/09/2025;Gynecologic oncologist;8;2
+M11_2479040;11/09/2025;Oncologist;8;2
