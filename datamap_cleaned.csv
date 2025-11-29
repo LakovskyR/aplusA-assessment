@@ -1,0 +1,146 @@
+Variable;Description;Min;Max;Information
+Physician_ID;Unique ID physician;1;370;Unique ID physician
+Age;Physician’s age;21;71;Age
+Gender;Physician’s gender;;;Male / Female / Other
+Years_of_Experience;Years_of_Experience;1;50;Years_of_Experience
+NumberOfEmployees;How many employees (staff members including you) work in your current practice or location?;;;How many employees (staff members including you) work in your current practice or location?
+Patient_Types;Type of Patients;;;Adult / Pediatric / Mixed / Geriatric
+Brand_Most_Recommended;Brand_Most_Recommended;;;A / B / C / D / E / F
+recognizedByPatients;Most important attributes when selecting a Brand- Att 1;0;1;Att1 .Recognized and familiar to my patients / Most important attributes when selecting a Brand
+comprehensiveProductRange;Most important attributes when selecting a Brand- Att 2;0;1;Att2.Provides a comprehensive range of products   / Most important attributes when selecting a Brand
+premiumOption;Most important attributes when selecting a Brand- Att 3;0;1;Att3.Considered a premium option by patients  / Most important attributes when selecting a Brand
+patientEducationMaterials;Most important attributes when selecting a Brand- Att 4;0;1;Att4.Provides materials that support patient education  / Most important attributes when selecting a Brand
+digitalToolsOffered;Most important attributes when selecting a Brand- Att 5;0;1;Att5.Offers digital tools  / Most important attributes when selecting a Brand
+practiceProfitability;Most important attributes when selecting a Brand- Att 6;0;1;Att6.Delivers strong profitability for my practice  / Most important attributes when selecting a Brand
+labAddsBusinessValue;Most important attributes when selecting a Brand- Att 7;0;1;Att7.Comes from a lab that adds value to grow my business  / Most important attributes when selecting a Brand
+reliableOnlineSupport;Most important attributes when selecting a Brand- Att 8;0;1;Att8.Provides reliable online support   / Most important attributes when selecting a Brand
+profitAndPatientSatisfaction;Most important attributes when selecting a Brand- Att 9;0;1;Att9.Balances profitability with patient satisfaction effectively  / Most important attributes when selecting a Brand
+innovativeTechnology;Most important attributes when selecting a Brand- Att 10;0;1;Att10.Uses innovative or advanced technology  / Most important attributes when selecting a Brand
+investsInResearch;Most important attributes when selecting a Brand- Att 11;0;1;Att11.Invests actively in scientific research  / Most important attributes when selecting a Brand
+knowledgeableSalesReps;Most important attributes when selecting a Brand- Att 12;0;1;Att12.Company employs knowledgeable and responsive sales reps  / Most important attributes when selecting a Brand
+trainingAtConferences;Most important attributes when selecting a Brand- Att 13;0;1;Att13.Representatives offer useful training and research content at seminars/conferences  / Most important attributes when selecting a Brand
+responsiveSalesReps;Most important attributes when selecting a Brand- Att 14;0;1;Att14.Sales reps understand and respond to my needs effectively  / Most important attributes when selecting a Brand
+strongRepRelationship;Most important attributes when selecting a Brand- Att 15;0;1;Att15.I maintain a strong professional relationship with the representative  / Most important attributes when selecting a Brand
+easyToSellBrand;Most important attributes when selecting a Brand- Att 16;0;1;Att16.Is an easy brand to sell  / Most important attributes when selecting a Brand
+superiorVisualClarity;Most important attributes when selecting a Brand- Att 17;0;1;Att17.Provides superior visual clarity for patients  / Most important attributes when selecting a Brand
+highQualityProducts;Most important attributes when selecting a Brand- Att 18;0;1;Att18.Consistently delivers high-quality products  / Most important attributes when selecting a Brand
+Awareness_A;Awareness score for BRAND A;1;10;Awareness score for BRAND A
+Awareness_B;Awareness score for BRAND B;1;10;Awareness score for BRAND B
+Awareness_C;Awareness score for BRAND C;1;10;Awareness score for BRAND C
+Awareness_D;Awareness score for BRAND D;1;10;Awareness score for BRAND D
+Awareness_E;Awareness score for BRAND E;1;10;Awareness score for BRAND E
+Awareness_F;Awareness score for BRAND F;1;10;Awareness score for BRAND F
+Satisfaction_A;Satisfaction score for BRAND A;1;10;Satisfaction score for BRAND A
+Satisfaction_B;Satisfaction score for BRAND B;1;10;Satisfaction score for BRAND B
+Satisfaction_C;Satisfaction score for BRAND C;1;10;Satisfaction score for BRAND C
+Satisfaction_D;Satisfaction score for BRAND D;1;10;Satisfaction score for BRAND D
+Satisfaction_E;Satisfaction score for BRAND E;1;10;Satisfaction score for BRAND E
+Satisfaction_F;Satisfaction score for BRAND F;1;10;Satisfaction score for BRAND F
+Attr1_A;Satisfaction attribute 1 association with BRAND A;1;10;Att1 .Recognized and familiar to my patients  / BRAND_A
+Attr1_B;Satisfaction attribute 1 association with BRAND B;1;10;Att1 .Recognized and familiar to my patients / BRAND_B
+Attr1_C;Satisfaction attribute 1 association with BRAND C;1;10;Att1 .Recognized and familiar to my patients / BRAND_C
+Attr1_D;Satisfaction attribute 1 association with BRAND D;1;10;Att1 .Recognized and familiar to my patients / BRAND_D
+Attr1_E;Satisfaction attribute 1 association with BRAND E;1;10;Att1 .Recognized and familiar to my patients / BRAND_E
+Attr1_F;Satisfaction attribute 1 association with BRAND F;1;10;Att1 .Recognized and familiar to my patients / BRAND_F
+Attr2_A;Satisfaction attribute 2 association with BRAND A;1;10;Att2.Provides a comprehensive range of products / BRAND_A
+Attr2_B;Satisfaction attribute 2 association with BRAND B;1;10;Att2.Provides a comprehensive range of products / BRAND_B
+Attr2_C;Satisfaction attribute 2 association with BRAND C;1;10;Att2.Provides a comprehensive range of products / BRAND_C
+Attr2_D;Satisfaction attribute 2 association with BRAND D;1;10;Att2.Provides a comprehensive range of products / BRAND_D
+Attr2_E;Satisfaction attribute 2 association with BRAND E;1;10;Att2.Provides a comprehensive range of products / BRAND_E
+Attr2_F;Satisfaction attribute 2 association with BRAND F;1;10;Att2.Provides a comprehensive range of products / BRAND_F
+Attr3_A;Satisfaction attribute 3 association with BRAND A;1;10;Att3.Considered a premium option by patients / BRAND_A
+Attr3_B;Satisfaction attribute 3 association with BRAND B;1;10;Att3.Considered a premium option by patients / BRAND_B
+Attr3_C;Satisfaction attribute 3 association with BRAND C;1;10;Att3.Considered a premium option by patients / BRAND_C
+Attr3_D;Satisfaction attribute 3 association with BRAND D;1;10;Att3.Considered a premium option by patients / BRAND_D
+Attr3_E;Satisfaction attribute 3 association with BRAND E;1;10;Att3.Considered a premium option by patients / BRAND_E
+Attr3_F;Satisfaction attribute 3 association with BRAND F;1;10;Att3.Considered a premium option by patients / BRAND_F
+Attr4_A;Satisfaction attribute 4 association with BRAND A;1;10;Att4.Provides materials that support patient education / BRAND_A
+Attr4_B;Satisfaction attribute 4 association with BRAND B;1;10;Att4.Provides materials that support patient education / BRAND_B
+Attr4_C;Satisfaction attribute 4 association with BRAND C;1;10;Att4.Provides materials that support patient education / BRAND_C
+Attr4_D;Satisfaction attribute 4 association with BRAND D;1;10;Att4.Provides materials that support patient education / BRAND_D
+Attr4_E;Satisfaction attribute 4 association with BRAND E;1;10;Att4.Provides materials that support patient education / BRAND_E
+Attr4_F;Satisfaction attribute 4 association with BRAND F;1;10;Att4.Provides materials that support patient education / BRAND_F
+Attr5_A;Satisfaction attribute 5 association with BRAND A;1;10;Att5.Offers digital tools / BRAND_A
+Attr5_B;Satisfaction attribute 5 association with BRAND B;1;10;Att5.Offers digital tools / BRAND_B
+Attr5_C;Satisfaction attribute 5 association with BRAND C;1;10;Att5.Offers digital tools / BRAND_C
+Attr5_D;Satisfaction attribute 5 association with BRAND D;1;10;Att5.Offers digital tools / BRAND_D
+Attr5_E;Satisfaction attribute 5 association with BRAND E;1;10;Att5.Offers digital tools / BRAND_E
+Attr5_F;Satisfaction attribute 5 association with BRAND F;1;10;Att5.Offers digital tools / BRAND_F
+Attr6_A;Satisfaction attribute 6 association with BRAND A;1;10;Att6.Delivers strong profitability for my practice / BRAND_A
+Attr6_B;Satisfaction attribute 6 association with BRAND B;1;10;Att6.Delivers strong profitability for my practice / BRAND_B
+Attr6_C;Satisfaction attribute 6 association with BRAND C;1;10;Att6.Delivers strong profitability for my practice / BRAND_C
+Attr6_D;Satisfaction attribute 6 association with BRAND D;1;10;Att6.Delivers strong profitability for my practice / BRAND_D
+Attr6_E;Satisfaction attribute 6 association with BRAND E;1;10;Att6.Delivers strong profitability for my practice / BRAND_E
+Attr6_F;Satisfaction attribute 6 association with BRAND F;1;10;Att6.Delivers strong profitability for my practice / BRAND_F
+Attr7_A;Satisfaction attribute 7 association with BRAND A;1;10;Att7.Comes from a lab that adds value to grow my business / BRAND_A
+Attr7_B;Satisfaction attribute 7 association with BRAND B;1;10;Att7.Comes from a lab that adds value to grow my business / BRAND_B
+Attr7_C;Satisfaction attribute 7 association with BRAND C;1;10;Att7.Comes from a lab that adds value to grow my business / BRAND_C
+Attr7_D;Satisfaction attribute 7 association with BRAND D;1;10;Att7.Comes from a lab that adds value to grow my business / BRAND_D
+Attr7_E;Satisfaction attribute 7 association with BRAND E;1;10;Att7.Comes from a lab that adds value to grow my business / BRAND_E
+Attr7_F;Satisfaction attribute 7 association with BRAND F;1;10;Att7.Comes from a lab that adds value to grow my business / BRAND_F
+Attr8_A;Satisfaction attribute 8 association with BRAND A;1;10;Att8.Provides reliable online support  / BRAND_A
+Attr8_B;Satisfaction attribute 8 association with BRAND B;1;10;Att8.Provides reliable online support  / BRAND_B
+Attr8_C;Satisfaction attribute 8 association with BRAND C;1;10;Att8.Provides reliable online support  / BRAND_C
+Attr8_D;Satisfaction attribute 8 association with BRAND D;1;10;Att8.Provides reliable online support  / BRAND_D
+Attr8_E;Satisfaction attribute 8 association with BRAND E;1;10;Att8.Provides reliable online support  / BRAND_E
+Attr8_F;Satisfaction attribute 8 association with BRAND F;1;10;Att8.Provides reliable online support  / BRAND_F
+Attr9_A;Satisfaction attribute 9 association with BRAND A;1;10;Att9.Balances profitability with patient satisfaction effectively / BRAND_A
+Attr9_B;Satisfaction attribute 9 association with BRAND B;1;10;Att9.Balances profitability with patient satisfaction effectively / BRAND_B
+Attr9_C;Satisfaction attribute 9 association with BRAND C;1;10;Att9.Balances profitability with patient satisfaction effectively / BRAND_C
+Attr9_D;Satisfaction attribute 9 association with BRAND D;1;10;Att9.Balances profitability with patient satisfaction effectively / BRAND_D
+Attr9_E;Satisfaction attribute 9 association with BRAND E;1;10;Att9.Balances profitability with patient satisfaction effectively / BRAND_E
+Attr9_F;Satisfaction attribute 9 association with BRAND F;1;10;Att9.Balances profitability with patient satisfaction effectively / BRAND_F
+Attr10_A;Satisfaction attribute 10 association with BRAND A;1;10;Att10.Uses innovative or advanced technology / BRAND_A
+Attr10_B;Satisfaction attribute 10 association with BRAND B;1;10;Att10.Uses innovative or advanced technology / BRAND_B
+Attr10_C;Satisfaction attribute 10 association with BRAND C;1;10;Att10.Uses innovative or advanced technology / BRAND_C
+Attr10_D;Satisfaction attribute 10 association with BRAND D;1;10;Att10.Uses innovative or advanced technology / BRAND_D
+Attr10_E;Satisfaction attribute 10 association with BRAND E;1;10;Att10.Uses innovative or advanced technology / BRAND_E
+Attr10_F;Satisfaction attribute 10 association with BRAND F;1;10;Att10.Uses innovative or advanced technology / BRAND_F
+Attr11_A;Satisfaction attribute 11 association with BRAND A;1;10;Att11.Invests actively in scientific research / BRAND_A
+Attr11_B;Satisfaction attribute 11 association with BRAND B;1;10;Att11.Invests actively in scientific research / BRAND_B
+Attr11_C;Satisfaction attribute 11 association with BRAND C;1;10;Att11.Invests actively in scientific research / BRAND_C
+Attr11_D;Satisfaction attribute 11 association with BRAND D;1;10;Att11.Invests actively in scientific research / BRAND_D
+Attr11_E;Satisfaction attribute 11 association with BRAND E;1;10;Att11.Invests actively in scientific research / BRAND_E
+Attr11_F;Satisfaction attribute 11 association with BRAND F;1;10;Att11.Invests actively in scientific research / BRAND_F
+Attr12_A;Satisfaction attribute 12 association with BRAND A;1;10;Att12.Company employs knowledgeable and responsive sales reps / BRAND_A
+Attr12_B;Satisfaction attribute 12 association with BRAND B;1;10;Att12.Company employs knowledgeable and responsive sales reps / BRAND_B
+Attr12_C;Satisfaction attribute 12 association with BRAND C;1;10;Att12.Company employs knowledgeable and responsive sales reps / BRAND_C
+Attr12_D;Satisfaction attribute 12 association with BRAND D;1;10;Att12.Company employs knowledgeable and responsive sales reps / BRAND_D
+Attr12_E;Satisfaction attribute 12 association with BRAND E;1;10;Att12.Company employs knowledgeable and responsive sales reps / BRAND_E
+Attr12_F;Satisfaction attribute 12 association with BRAND F;1;10;Att12.Company employs knowledgeable and responsive sales reps / BRAND_F
+Attr13_A;Satisfaction attribute 13 association with BRAND A;1;10;Att13.Representatives offer useful training and research content at seminars/conferences / BRAND_A
+Attr13_B;Satisfaction attribute 13 association with BRAND B;1;10;Att13.Representatives offer useful training and research content at seminars/conferences / BRAND_B
+Attr13_C;Satisfaction attribute 13 association with BRAND C;1;10;Att13.Representatives offer useful training and research content at seminars/conferences / BRAND_C
+Attr13_D;Satisfaction attribute 13 association with BRAND D;1;10;Att13.Representatives offer useful training and research content at seminars/conferences / BRAND_D
+Attr13_E;Satisfaction attribute 13 association with BRAND E;1;10;Att13.Representatives offer useful training and research content at seminars/conferences / BRAND_E
+Attr13_F;Satisfaction attribute 13 association with BRAND F;1;10;Att13.Representatives offer useful training and research content at seminars/conferences / BRAND_F
+Attr14_A;Satisfaction attribute 14 association with BRAND A;1;10;Att14.Sales reps understand and respond to my needs effectively / BRAND_A
+Attr14_B;Satisfaction attribute 14 association with BRAND B;1;10;Att14.Sales reps understand and respond to my needs effectively / BRAND_B
+Attr14_C;Satisfaction attribute 14 association with BRAND C;1;10;Att14.Sales reps understand and respond to my needs effectively / BRAND_C
+Attr14_D;Satisfaction attribute 14 association with BRAND D;1;10;Att14.Sales reps understand and respond to my needs effectively / BRAND_D
+Attr14_E;Satisfaction attribute 14 association with BRAND E;1;10;Att14.Sales reps understand and respond to my needs effectively / BRAND_E
+Attr14_F;Satisfaction attribute 14 association with BRAND F;1;10;Att14.Sales reps understand and respond to my needs effectively / BRAND_F
+Attr15_A;Satisfaction attribute 15 association with BRAND A;1;10;Att15.I maintain a strong professional relationship with the representative / BRAND_A
+Attr15_B;Satisfaction attribute 15 association with BRAND B;1;10;Att15.I maintain a strong professional relationship with the representative / BRAND_B
+Attr15_C;Satisfaction attribute 15 association with BRAND C;1;10;Att15.I maintain a strong professional relationship with the representative / BRAND_C
+Attr15_D;Satisfaction attribute 15 association with BRAND D;1;10;Att15.I maintain a strong professional relationship with the representative / BRAND_D
+Attr15_E;Satisfaction attribute 15 association with BRAND E;1;10;Att15.I maintain a strong professional relationship with the representative / BRAND_E
+Attr15_F;Satisfaction attribute 15 association with BRAND F;1;10;Att15.I maintain a strong professional relationship with the representative / BRAND_F
+Attr16_A;Satisfaction attribute 16 association with BRAND A;1;10;Att16.Is an easy brand to sell / BRAND_A
+Attr16_B;Satisfaction attribute 16 association with BRAND B;1;10;Att16.Is an easy brand to sell / BRAND_B
+Attr16_C;Satisfaction attribute 16 association with BRAND C;1;10;Att16.Is an easy brand to sell / BRAND_C
+Attr16_D;Satisfaction attribute 16 association with BRAND D;1;10;Att16.Is an easy brand to sell / BRAND_D
+Attr16_E;Satisfaction attribute 16 association with BRAND E;1;10;Att16.Is an easy brand to sell / BRAND_E
+Attr16_F;Satisfaction attribute 16 association with BRAND F;1;10;Att16.Is an easy brand to sell / BRAND_F
+Attr17_A;Satisfaction attribute 17 association with BRAND A;1;10;Att17.Provides superior visual clarity for patients / BRAND_A
+Attr17_B;Satisfaction attribute 17 association with BRAND B;1;10;Att17.Provides superior visual clarity for patients / BRAND_B
+Attr17_C;Satisfaction attribute 17 association with BRAND C;1;10;Att17.Provides superior visual clarity for patients / BRAND_C
+Attr17_D;Satisfaction attribute 17 association with BRAND D;1;10;Att17.Provides superior visual clarity for patients / BRAND_D
+Attr17_E;Satisfaction attribute 17 association with BRAND E;1;10;Att17.Provides superior visual clarity for patients / BRAND_E
+Attr17_F;Satisfaction attribute 17 association with BRAND F;1;10;Att17.Provides superior visual clarity for patients / BRAND_F
+Attr18_A;Satisfaction attribute 18 association with BRAND A;1;10;Att18.Consistently delivers high-quality products / BRAND_A
+Attr18_B;Satisfaction attribute 18 association with BRAND B;1;10;Att18.Consistently delivers high-quality products / BRAND_B
+Attr18_C;Satisfaction attribute 18 association with BRAND C;1;10;Att18.Consistently delivers high-quality products / BRAND_C
+Attr18_D;Satisfaction attribute 18 association with BRAND D;1;10;Att18.Consistently delivers high-quality products / BRAND_D
+Attr18_E;Satisfaction attribute 18 association with BRAND E;1;10;Att18.Consistently delivers high-quality products / BRAND_E
+Attr18_F;Satisfaction attribute 18 association with BRAND F;1;10;Att18.Consistently delivers high-quality products / BRAND_F
